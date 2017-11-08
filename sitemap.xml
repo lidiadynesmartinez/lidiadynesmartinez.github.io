@@ -9,58 +9,6 @@
       <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/asset%203.png</image:loc>
-      <image:caption>Introducing Pigeon</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo_kickstarter.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/about_01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/about_01_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_bird_source.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_05_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_06.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_06_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_01_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_03.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_03_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_04.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_04_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans196x370.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans196x370_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
     </image:image>
     <image:image>
@@ -74,68 +22,26 @@
       <image:caption>Introducing Pigeon</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans188x354.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans188x354_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/asset%2012363x119.png</image:loc>
       <image:caption>Introducing Pigeon</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/about_01240x240.jpg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/about_01240x240_2x.jpg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_bird_source240x240.png</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u1854062.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_01240x240.jpg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_01240x240_2x.jpg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u1854063.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_05240x240.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_05240x240_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_03240x240.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cube_03240x240_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/scooter_right_trans_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/about.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/head_what_left.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -230,46 +136,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/attempt.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/asset%2012.png</image:loc>
-      <image:caption>Introducing Pigeon</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u1854062.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u1854063.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x3.png</image:loc>
     </image:image>
   </url>
 </urlset>
