@@ -1,67 +1,394 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy.com" resolutions="1x" timestamp="1509734848083">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse-php.com/razvan/pigeon" resolutions="1x,2x" timestamp="1510165263296">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3758656610" ref="mini-wheg:index:amun:acrui"/>
-    <file name="mini-wheg.css" crc="248671217" ref="mini-wheg"/>
-    <file name="index.css" crc="103222342" ref="index"/>
-    <file name="amun.css" crc="248671217" ref="amun"/>
-    <file name="acrui.css" crc="438654995" ref="acrui"/>
+    <file name="site_global.css" crc="4227394724"/>
+    <file name="master_main-master.css" crc="474747717" ref="miniwheg:portfolio:index:attempt:acrui:gizmo:about:amun"/>
+    <file name="nomq_preview_master_main-master.css" crc="354772510" ref="miniwheg:portfolio:index:attempt:acrui:gizmo:about:amun"/>
+    <file name="miniwheg.css" crc="3936435075" ref="miniwheg"/>
+    <file name="nomq_miniwheg.css" crc="4259521336" ref="miniwheg"/>
+    <file name="portfolio.css" crc="58315593" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4265579119" ref="portfolio"/>
+    <file name="index.css" crc="4215903711" ref="index"/>
+    <file name="nomq_index.css" crc="185706619" ref="index"/>
+    <file name="attempt.css" crc="150514968" ref="attempt"/>
+    <file name="nomq_attempt.css" crc="3975438015" ref="attempt"/>
+    <file name="acrui.css" crc="3936435075" ref="acrui"/>
+    <file name="nomq_acrui.css" crc="4259521336" ref="acrui"/>
+    <file name="gizmo.css" crc="3936435075" ref="gizmo"/>
+    <file name="nomq_gizmo.css" crc="4259521336" ref="gizmo"/>
+    <file name="about.css" crc="4002164653" ref="about"/>
+    <file name="nomq_about.css" crc="4285251197" ref="about"/>
+    <file name="amun.css" crc="3936435075" ref="amun"/>
+    <file name="nomq_amun.css" crc="4259521336" ref="amun"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:mini-wheg"/>
-    <file name="museutils.js" crc="3803043152" ref="index:acrui:amun:mini-wheg"/>
-    <file name="whatinput.js" crc="86476730" ref="index:acrui:amun:mini-wheg"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:acrui:amun:mini-wheg"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:acrui:amun:mini-wheg"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u547.php" crc="3800077968" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:acrui:amun:mini-wheg"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:acrui:amun:mini-wheg"/>
-    <file name="require.js" crc="4157109226" ref="index:acrui:amun:mini-wheg"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:portfolio:attempt"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="form_check.php" crc="147359589" ref="attempt"/>
+    <file name="form_throttle.php" crc="93986428" ref="attempt"/>
+    <file name="form_process.php" crc="3851993751" ref="attempt"/>
+    <file name="form-u184787.php" crc="3849369721" ref="attempt"/>
   </folder>
   <folder name="images">
-    <file name="pinky.svg" crc="208020541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pinky_poster_.png" crc="505656200" ref="index"/>
-    <file name="waaaheeey.jpg" crc="4292641386" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="untitled-1.jpg" crc="98898727" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="name.svg" crc="4284508074" seo="true" ref="index:acrui:amun:mini-wheg">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt"/>
+    <file name="name.svg" crc="498697676" seo="true" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt">
       <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="amun" alt=""/>
-      <caption webpage="mini-wheg" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
     </file>
-    <file name="name_poster_.png" crc="4107094541" ref="index"/>
-    <file name="pasted image 512x512.png" crc="4150919566" seo="true" ref="index">
+    <file name="name_poster_.png" crc="76138574" ref="index"/>
+    <file name="asset 10.png" crc="4278745964" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1024x1024.png" crc="368776792" seo="true" ref="index">
+    <file name="asset 3.png" crc="525528730" seo="true" ref="index">
+      <caption webpage="index" alt="Introducing Pigeon"/>
+    </file>
+    <file name="logo_kickstarter.svg" crc="203821425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 512x5122.png" crc="151870838" seo="true" ref="index">
+    <file name="logo_kickstarter_poster_.png" crc="3889503384" ref="index"/>
+    <file name="about_01.jpg" crc="527420575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="about_01_2x.jpg" crc="158864044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_bird_source.png" crc="4250004093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_05.jpg" crc="3782499153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_05_2x.jpg" crc="3828516844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_06.jpg" crc="263887939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_06_2x.jpg" crc="39046214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_01.jpg" crc="494743921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_01_2x.jpg" crc="3831458128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_03.jpg" crc="196387084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_03_2x.jpg" crc="263602970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_04.jpg" crc="467778265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_04_2x.jpg" crc="272192215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scooter_right_trans196x370.png" crc="4096307919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scooter_right_trans196x370_2x.png" crc="459357986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="behance-logo-button-(2).svg" crc="3808783980" seo="true" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt">
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+    </file>
+    <file name="behance-logo-button (2)_poster_.png" crc="3878695310" ref="index"/>
+    <file name="pinterest-logotype-circle.svg" crc="3783452412" seo="true" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt">
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+    </file>
+    <file name="pinterest-logotype-circle_poster_.png" crc="4208754065" ref="index"/>
+    <file name="linkedin-logo-(1).svg" crc="3864343718" seo="true" ref="index:about:portfolio:acrui:amun:miniwheg:gizmo:attempt">
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="attempt" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="miniwheg" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+    </file>
+    <file name="linkedin-logo (1)_poster_.png" crc="4179584593" ref="index"/>
+    <file name="ico_ham.svg" crc="496736174" ref="index"/>
+    <file name="ico_ham_poster_u182437.png" crc="11301426" ref="index"/>
+    <file name="ico_ham_close.svg" crc="528877227" ref="index"/>
+    <file name="ico_ham_close_poster_u182444.png" crc="4203631480" ref="index"/>
+    <file name="asset 12.png" crc="3891812009" seo="true" ref="index:attempt">
+      <caption webpage="index" alt="Introducing Pigeon"/>
+      <caption webpage="attempt" alt="Introducing Pigeon"/>
+    </file>
+    <file name="scooter_right_trans188x354.png" crc="47313941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scooter_right_trans188x354_2x.png" crc="383978830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 12363x119.png" crc="3891812009" seo="true" ref="index">
+      <caption webpage="index" alt="Introducing Pigeon"/>
+    </file>
+    <file name="about_01240x240.jpg" crc="4177119408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about_01240x240_2x.jpg" crc="68003184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_bird_source240x240.png" crc="4250004093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_01240x240.jpg" crc="426716939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_01240x240_2x.jpg" crc="4293310678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_05240x240.jpg" crc="4276457679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_05240x240_2x.jpg" crc="89162206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_03240x240.jpg" crc="195150284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube_03240x240_2x.jpg" crc="14359455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scooter_right_trans.png" crc="4016891813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scooter_right_trans_2x.png" crc="4127778092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="head_what_left.svg" crc="3992733357" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="waaaheeey.png" crc="189636263" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="waaaheeey_2x.png" crc="4136262581" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="511056454" ref="portfolio"/>
+    <file name="untitled-1_2x.jpg" crc="4030905328" ref="portfolio"/>
+    <file name="untitled6.jpg" crc="207737143" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="07 whistle.jpg" crc="4063296563" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="07 whistle_2x.jpg" crc="3895963616" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dscf2091.jpg" crc="3946749876" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dscf2091_2x.jpg" crc="417433323" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="waaaheeey-u183765-fr.png" crc="330699569" ref="portfolio"/>
+    <file name="waaaheeey-u183765-fr_2x.png" crc="3806325841" ref="portfolio"/>
+    <file name="untitled-1-u183778-fr.jpg" crc="495139589" ref="portfolio"/>
+    <file name="untitled-1-u183778-fr_2x.jpg" crc="4204983210" ref="portfolio"/>
+    <file name="untitled6-u183791-fr.jpg" crc="4096252800" ref="portfolio"/>
+    <file name="untitled6-u183791-fr_2x.jpg" crc="4126757376" ref="portfolio"/>
+    <file name="07 whistle-u183796-fr.jpg" crc="217859300" ref="portfolio"/>
+    <file name="07 whistle-u183796-fr_2x.jpg" crc="4063296563" ref="portfolio"/>
+    <file name="dscf2091-u183821-fr.jpg" crc="451635264" ref="portfolio"/>
+    <file name="dscf2091-u183821-fr_2x.jpg" crc="4052612674" ref="portfolio"/>
+    <file name="head_get_left.svg" crc="3827224084" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt="Get Your Pigeon On"/>
+    </file>
+    <file name="waaaheeey-u183765-fr2.png" crc="4151470450" ref="portfolio"/>
+    <file name="waaaheeey-u183765-fr_2x2.png" crc="3914750432" ref="portfolio"/>
+    <file name="untitled-1-u183778-fr2.jpg" crc="3989849530" ref="portfolio"/>
+    <file name="untitled-1-u183778-fr_2x2.jpg" crc="308364184" ref="portfolio"/>
+    <file name="untitled6-u183791-fr2.jpg" crc="4280863485" ref="portfolio"/>
+    <file name="untitled6-u183791-fr_2x2.jpg" crc="51911864" ref="portfolio"/>
+    <file name="07 whistle-u183796-fr2.jpg" crc="4166479162" ref="portfolio"/>
+    <file name="07 whistle-u183796-fr_2x2.jpg" crc="3939538180" ref="portfolio"/>
+    <file name="untitled-2.svg" crc="81802140" ref="attempt"/>
+    <file name="untitled-2_poster_u185141.png" crc="277665467" ref="attempt"/>
+    <file name="untitled-4-crop-u185406.png" crc="4033993241" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="untitled-4-crop-u185406_2x.png" crc="132274351" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="20a3900b69877e6b29672eb91fd87e82.jpg" crc="187807433" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="untitled-3.svg" crc="3946364074" ref="attempt"/>
+    <file name="untitled-3_poster_u185438.png" crc="367309513" ref="attempt"/>
+    <file name="macbook-pro-review-23.png" crc="3931623400" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="u184748-6.png" crc="3833455863" ref="attempt"/>
+    <file name="u184748-6_2x.png" crc="214860855" ref="attempt"/>
+    <file name="u184749-6.png" crc="376339745" ref="attempt"/>
+    <file name="u184749-6_2x.png" crc="3876270684" ref="attempt"/>
+    <file name="u184750-6.png" crc="189645104" ref="attempt"/>
+    <file name="u184750-6_2x.png" crc="3891425412" ref="attempt"/>
+    <file name="untitled-4-crop-u1854062.png" crc="4107120649" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="untitled-4-crop-u185406_2x2.png" crc="4145374929" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="u184748-62.png" crc="3833455863" ref="attempt"/>
+    <file name="u184748-6_2x2.png" crc="214860855" ref="attempt"/>
+    <file name="u184749-62.png" crc="376339745" ref="attempt"/>
+    <file name="u184749-6_2x2.png" crc="530072061" ref="attempt"/>
+    <file name="u184750-62.png" crc="189645104" ref="attempt"/>
+    <file name="u184750-6_2x2.png" crc="18454370" ref="attempt"/>
+    <file name="untitled-4-crop-u1854063.png" crc="459615283" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="untitled-4-crop-u185406_2x3.png" crc="3888477560" seo="true" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="macbook-pro-review-232.png" crc="71795145" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="macbook-pro-review-23_2x.png" crc="3931623400" ref="attempt">
+      <caption webpage="attempt" alt=""/>
+    </file>
+    <file name="u184748-63.png" crc="3797009903" ref="attempt"/>
+    <file name="u184748-6_2x3.png" crc="3864138242" ref="attempt"/>
+    <file name="u184749-63.png" crc="73126990" ref="attempt"/>
+    <file name="u184749-6_2x3.png" crc="3822874682" ref="attempt"/>
+    <file name="u184750-63.png" crc="482953714" ref="attempt"/>
+    <file name="u184750-6_2x3.png" crc="152799670" ref="attempt"/>
   </folder>
-  <file name="index.html" crc="382536663" seo="true" mt="1509734724486" redirect="true"/>
-  <file name="acrui.html" crc="4017798766" seo="true" mt="1509227837355" redirect="true"/>
-  <file name="amun.html" crc="4000164094" seo="true" mt="1509227837355" redirect="true"/>
-  <file name="mini-wheg.html" crc="4281579738" seo="true" mt="1509227837355" redirect="true"/>
+  <file name="index.html" crc="4230996302" seo="true" mt="1510164486313" redirect="true"/>
+  <file name="about.html" crc="3982562414" seo="true" mt="1510164486314" redirect="true"/>
+  <file name="portfolio.html" crc="3884318414" seo="true" mt="1510164486314" redirect="true"/>
+  <file name="acrui.html" crc="428615904" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="amun.html" crc="193681141" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="miniwheg.html" crc="3951876114" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="gizmo.html" crc="318053941" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="attempt.html" crc="4111667551" seo="true" mt="1510165239808" redirect="true"/>
 </manifest>
