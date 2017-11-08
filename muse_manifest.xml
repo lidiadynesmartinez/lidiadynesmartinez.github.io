@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse-php.com/razvan/pigeon" resolutions="1x,2x" timestamp="1510165263296">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510168525680">
   <folder name="css">
     <file name="site_global.css" crc="4227394724"/>
     <file name="master_main-master.css" crc="474747717" ref="miniwheg:portfolio:index:attempt:acrui:gizmo:about:amun"/>
@@ -7,10 +7,10 @@
     <file name="nomq_miniwheg.css" crc="4259521336" ref="miniwheg"/>
     <file name="portfolio.css" crc="58315593" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="4265579119" ref="portfolio"/>
-    <file name="index.css" crc="4215903711" ref="index"/>
+    <file name="index.css" crc="4193517904" ref="index"/>
     <file name="nomq_index.css" crc="185706619" ref="index"/>
-    <file name="attempt.css" crc="150514968" ref="attempt"/>
-    <file name="nomq_attempt.css" crc="3975438015" ref="attempt"/>
+    <file name="attempt.css" crc="4079812077" ref="attempt"/>
+    <file name="nomq_attempt.css" crc="3784774677" ref="attempt"/>
     <file name="acrui.css" crc="3936435075" ref="acrui"/>
     <file name="nomq_acrui.css" crc="4259521336" ref="acrui"/>
     <file name="gizmo.css" crc="3936435075" ref="gizmo"/>
@@ -332,7 +332,7 @@
     <file name="07 whistle-u183796-fr_2x2.jpg" crc="3939538180" ref="portfolio"/>
     <file name="untitled-2.svg" crc="81802140" ref="attempt"/>
     <file name="untitled-2_poster_u185141.png" crc="277665467" ref="attempt"/>
-    <file name="untitled-4-crop-u185406.png" crc="4033993241" seo="true" ref="attempt">
+    <file name="untitled-4-crop-u185406.png" crc="4134796783" seo="true" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
     <file name="untitled-4-crop-u185406_2x.png" crc="132274351" seo="true" ref="attempt">
@@ -346,24 +346,24 @@
     <file name="macbook-pro-review-23.png" crc="3931623400" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
-    <file name="u184748-6.png" crc="3833455863" ref="attempt"/>
-    <file name="u184748-6_2x.png" crc="214860855" ref="attempt"/>
-    <file name="u184749-6.png" crc="376339745" ref="attempt"/>
-    <file name="u184749-6_2x.png" crc="3876270684" ref="attempt"/>
-    <file name="u184750-6.png" crc="189645104" ref="attempt"/>
-    <file name="u184750-6_2x.png" crc="3891425412" ref="attempt"/>
+    <file name="u184748-6.png" crc="4177553331" ref="attempt"/>
+    <file name="u184748-6_2x.png" crc="514589724" ref="attempt"/>
+    <file name="u184749-6.png" crc="384985455" ref="attempt"/>
+    <file name="u184749-6_2x.png" crc="3898936393" ref="attempt"/>
+    <file name="u184750-6.png" crc="301976728" ref="attempt"/>
+    <file name="u184750-6_2x.png" crc="37205674" ref="attempt"/>
     <file name="untitled-4-crop-u1854062.png" crc="4107120649" seo="true" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
     <file name="untitled-4-crop-u185406_2x2.png" crc="4145374929" seo="true" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
-    <file name="u184748-62.png" crc="3833455863" ref="attempt"/>
-    <file name="u184748-6_2x2.png" crc="214860855" ref="attempt"/>
-    <file name="u184749-62.png" crc="376339745" ref="attempt"/>
-    <file name="u184749-6_2x2.png" crc="530072061" ref="attempt"/>
-    <file name="u184750-62.png" crc="189645104" ref="attempt"/>
-    <file name="u184750-6_2x2.png" crc="18454370" ref="attempt"/>
+    <file name="u184748-62.png" crc="4177553331" ref="attempt"/>
+    <file name="u184748-6_2x2.png" crc="514589724" ref="attempt"/>
+    <file name="u184749-62.png" crc="384985455" ref="attempt"/>
+    <file name="u184749-6_2x2.png" crc="3863997826" ref="attempt"/>
+    <file name="u184750-62.png" crc="301976728" ref="attempt"/>
+    <file name="u184750-6_2x2.png" crc="148893658" ref="attempt"/>
     <file name="untitled-4-crop-u1854063.png" crc="459615283" seo="true" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
@@ -376,19 +376,19 @@
     <file name="macbook-pro-review-23_2x.png" crc="3931623400" ref="attempt">
       <caption webpage="attempt" alt=""/>
     </file>
-    <file name="u184748-63.png" crc="3797009903" ref="attempt"/>
-    <file name="u184748-6_2x3.png" crc="3864138242" ref="attempt"/>
-    <file name="u184749-63.png" crc="73126990" ref="attempt"/>
-    <file name="u184749-6_2x3.png" crc="3822874682" ref="attempt"/>
-    <file name="u184750-63.png" crc="482953714" ref="attempt"/>
-    <file name="u184750-6_2x3.png" crc="152799670" ref="attempt"/>
+    <file name="u184748-63.png" crc="4163015562" ref="attempt"/>
+    <file name="u184748-6_2x3.png" crc="3872423574" ref="attempt"/>
+    <file name="u184749-63.png" crc="3977735331" ref="attempt"/>
+    <file name="u184749-6_2x3.png" crc="3854709245" ref="attempt"/>
+    <file name="u184750-63.png" crc="3889594" ref="attempt"/>
+    <file name="u184750-6_2x3.png" crc="419241813" ref="attempt"/>
   </folder>
-  <file name="index.html" crc="4230996302" seo="true" mt="1510164486313" redirect="true"/>
-  <file name="about.html" crc="3982562414" seo="true" mt="1510164486314" redirect="true"/>
-  <file name="portfolio.html" crc="3884318414" seo="true" mt="1510164486314" redirect="true"/>
-  <file name="acrui.html" crc="428615904" seo="true" mt="1510156299506" redirect="true"/>
-  <file name="amun.html" crc="193681141" seo="true" mt="1510156299506" redirect="true"/>
-  <file name="miniwheg.html" crc="3951876114" seo="true" mt="1510156299506" redirect="true"/>
-  <file name="gizmo.html" crc="318053941" seo="true" mt="1510156299506" redirect="true"/>
-  <file name="attempt.html" crc="4111667551" seo="true" mt="1510165239808" redirect="true"/>
+  <file name="index.html" crc="217644155" seo="true" mt="1510168420865" redirect="true"/>
+  <file name="about.html" crc="3981465620" seo="true" mt="1510168121854" redirect="true"/>
+  <file name="portfolio.html" crc="3866442515" seo="true" mt="1510168121854" redirect="true"/>
+  <file name="acrui.html" crc="4093259652" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="amun.html" crc="168766918" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="miniwheg.html" crc="3929031751" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="gizmo.html" crc="426888427" seo="true" mt="1510156299506" redirect="true"/>
+  <file name="attempt.html" crc="3926392816" seo="true" mt="1510168402755" redirect="true"/>
 </manifest>
