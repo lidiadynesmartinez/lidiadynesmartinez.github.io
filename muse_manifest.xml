@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510169942585">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510223470367">
   <folder name="css">
     <file name="site_global.css" crc="4227394724"/>
     <file name="master_main-master.css" crc="4228718294" ref="miniwheg:portfolio:index:acrui:gizmo:amun"/>
@@ -7,8 +7,8 @@
     <file name="nomq_miniwheg.css" crc="4259521336" ref="miniwheg"/>
     <file name="portfolio.css" crc="3904832767" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="4265579119" ref="portfolio"/>
-    <file name="index.css" crc="525461434" ref="index"/>
-    <file name="nomq_index.css" crc="4095545026" ref="index"/>
+    <file name="index.css" crc="135316719" ref="index"/>
+    <file name="nomq_index.css" crc="33211018" ref="index"/>
     <file name="acrui.css" crc="4148469482" ref="acrui"/>
     <file name="nomq_acrui.css" crc="4259521336" ref="acrui"/>
     <file name="gizmo.css" crc="4148469482" ref="gizmo"/>
@@ -43,9 +43,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -55,6 +52,9 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
@@ -70,9 +70,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -82,6 +79,9 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
@@ -97,9 +97,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -109,6 +106,9 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
@@ -124,9 +124,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -136,6 +133,9 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
       <caption webpage="miniwheg" alt=""/>
@@ -148,13 +148,6 @@
     <file name="ico_ham_poster_u182437.png" crc="11301426" ref="portfolio"/>
     <file name="ico_ham_close.svg" crc="528877227" ref="portfolio"/>
     <file name="ico_ham_close_poster_u182444.png" crc="4203631480" ref="portfolio"/>
-    <file name="asset 12.png" crc="3891812009" seo="true" ref="index">
-      <caption webpage="index" alt="Introducing Pigeon"/>
-      <caption webpage="attempt" alt="Introducing Pigeon"/>
-    </file>
-    <file name="asset 12363x119.png" crc="3891812009" seo="true" ref="index">
-      <caption webpage="index" alt="Introducing Pigeon"/>
-    </file>
     <file name="waaaheeey.png" crc="189636263" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -201,11 +194,11 @@
     <file name="07 whistle-u183796-fr_2x2.jpg" crc="3939538180" ref="portfolio"/>
     <file name="untitled-2.svg" crc="81802140" ref="index"/>
     <file name="untitled-2_poster_u185141.png" crc="277665467" ref="index"/>
-    <file name="untitled-4-crop-u185406.png" crc="4134796783" seo="true" ref="index">
+    <file name="untitled-4-crop-u185406.png" crc="3811888027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="attempt" alt=""/>
     </file>
-    <file name="untitled-4-crop-u185406_2x.png" crc="132274351" seo="true" ref="index">
+    <file name="untitled-4-crop-u185406_2x.png" crc="3795621490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="attempt" alt=""/>
     </file>
@@ -225,11 +218,11 @@
     <file name="u184749-6_2x.png" crc="3898936393" ref="index"/>
     <file name="u184750-6.png" crc="301976728" ref="index"/>
     <file name="u184750-6_2x.png" crc="37205674" ref="index"/>
-    <file name="untitled-4-crop-u1854062.png" crc="4107120649" seo="true" ref="index">
+    <file name="untitled-4-crop-u1854062.png" crc="311713317" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="attempt" alt=""/>
     </file>
-    <file name="untitled-4-crop-u185406_2x2.png" crc="4145374929" seo="true" ref="index">
+    <file name="untitled-4-crop-u185406_2x2.png" crc="3987667530" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="attempt" alt=""/>
     </file>
@@ -239,14 +232,6 @@
     <file name="u184749-6_2x2.png" crc="3863997826" ref="index"/>
     <file name="u184750-62.png" crc="301976728" ref="index"/>
     <file name="u184750-6_2x2.png" crc="148893658" ref="index"/>
-    <file name="untitled-4-crop-u1854063.png" crc="459615283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="attempt" alt=""/>
-    </file>
-    <file name="untitled-4-crop-u185406_2x3.png" crc="3888477560" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="attempt" alt=""/>
-    </file>
     <file name="macbook-pro-review-232.png" crc="71795145" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="attempt" alt=""/>
@@ -261,11 +246,17 @@
     <file name="u184749-6_2x3.png" crc="3854709245" ref="index"/>
     <file name="u184750-63.png" crc="3889594" ref="index"/>
     <file name="u184750-6_2x3.png" crc="419241813" ref="index"/>
+    <file name="untitled-4.png" crc="224260194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-4_2x.png" crc="436010851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="331248979" seo="true" mt="1510169906802" redirect="true"/>
-  <file name="portfolio.html" crc="3810943828" seo="true" mt="1510169906802" redirect="true"/>
-  <file name="acrui.html" crc="8946329" seo="true" mt="1510169906802" redirect="true"/>
-  <file name="amun.html" crc="4045704056" seo="true" mt="1510169906802" redirect="true"/>
-  <file name="miniwheg.html" crc="441532633" seo="true" mt="1510169906802" redirect="true"/>
-  <file name="gizmo.html" crc="3772324311" seo="true" mt="1510169906802" redirect="true"/>
+  <file name="index.html" crc="183770904" seo="true" mt="1510182519886" redirect="true"/>
+  <file name="portfolio.html" crc="276931001" seo="true" mt="1510170451992" redirect="true"/>
+  <file name="acrui.html" crc="139928879" seo="true" mt="1510170451992" redirect="true"/>
+  <file name="amun.html" crc="424139340" seo="true" mt="1510170451992" redirect="true"/>
+  <file name="miniwheg.html" crc="3787529179" seo="true" mt="1510170451992" redirect="true"/>
+  <file name="gizmo.html" crc="4267619507" seo="true" mt="1510170451992" redirect="true"/>
 </manifest>
