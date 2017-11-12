@@ -1,18 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510511622225">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510514116586">
+  <folder name="assets">
+    <file name="resume.pdf" crc="4105854091" seo="true" mt="1509727517000"/>
+    <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="447972463" ref="index"/>
-    <file name="nomq_index.css" crc="4274166460" ref="index"/>
-    <file name="acrui.css" crc="475703156" ref="acrui"/>
-    <file name="nomq_acrui.css" crc="221199173" ref="acrui"/>
-    <file name="gizmo.css" crc="3772992707" ref="gizmo"/>
-    <file name="nomq_gizmo.css" crc="145856669" ref="gizmo"/>
-    <file name="amun.css" crc="512875828" ref="amun"/>
-    <file name="nomq_amun.css" crc="4071699288" ref="amun"/>
-    <file name="master_a-master.css" crc="4203585376" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="index.css" crc="36658559" ref="index"/>
+    <file name="nomq_index.css" crc="4041450372" ref="index"/>
+    <file name="acrui.css" crc="182810465" ref="acrui"/>
+    <file name="nomq_acrui.css" crc="65753156" ref="acrui"/>
+    <file name="gizmo.css" crc="328617026" ref="gizmo"/>
+    <file name="nomq_gizmo.css" crc="297944895" ref="gizmo"/>
+    <file name="amun.css" crc="4073174515" ref="amun"/>
+    <file name="nomq_amun.css" crc="403314619" ref="amun"/>
+    <file name="master_a-master.css" crc="3928468713" ref="gizmo:index:whego:acrui:amun"/>
     <file name="nomq_preview_master_a-master.css" crc="174352006" ref="gizmo:index:whego:acrui:amun"/>
-    <file name="whego.css" crc="508786624" ref="whego"/>
-    <file name="nomq_whego.css" crc="373561992" ref="whego"/>
+    <file name="whego.css" crc="252055240" ref="whego"/>
+    <file name="nomq_whego.css" crc="341435300" ref="whego"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:gizmo:whego"/>
@@ -367,10 +371,24 @@
     <file name="gizmo-banner-u40788-fr_2x3.jpg" crc="3955034822" ref="gizmo"/>
     <file name="gizmo-banner-u40788-fr4.jpg" crc="67129185" ref="gizmo"/>
     <file name="gizmo-banner-u40788-fr_2x4.jpg" crc="4010879878" ref="gizmo"/>
+    <file name="u1554-6.png" crc="12865424" ref="index"/>
+    <file name="u1554-6_2x.png" crc="434674358" ref="index"/>
+    <file name="u1554-62.png" crc="394199932" ref="index"/>
+    <file name="u1554-6_2x2.png" crc="273155769" ref="index"/>
+    <file name="u1554-63.png" crc="3904307022" ref="index"/>
+    <file name="u1554-6_2x3.png" crc="510236963" ref="index"/>
+    <file name="u1554-64.png" crc="3871071771" ref="index"/>
+    <file name="u1554-6_2x4.png" crc="270579552" ref="index"/>
+    <file name="u1554-65.png" crc="99228733" ref="index"/>
+    <file name="u1554-6_2x5.png" crc="4186723577" ref="index"/>
+    <file name="u1554-66.png" crc="495936630" ref="index"/>
+    <file name="u1554-6_2x6.png" crc="291769915" ref="index"/>
+    <file name="u1554-67.png" crc="68026657" ref="index"/>
+    <file name="u1554-6_2x7.png" crc="68714482" ref="index"/>
   </folder>
-  <file name="index.html" crc="78549636" seo="true" mt="1510511573123" redirect="true"/>
-  <file name="acrui.html" crc="1193619" seo="true" mt="1510506143954" redirect="true"/>
-  <file name="amun.html" crc="3947945823" seo="true" mt="1510506144102" redirect="true"/>
-  <file name="gizmo.html" crc="111740992" seo="true" mt="1510505883096" redirect="true"/>
-  <file name="whego.html" crc="110476783" seo="true" mt="1510506104988" redirect="true"/>
+  <file name="index.html" crc="3937562293" seo="true" mt="1510513986503" redirect="true"/>
+  <file name="acrui.html" crc="4013818296" seo="true" mt="1510514047901" redirect="true"/>
+  <file name="amun.html" crc="4245711531" seo="true" mt="1510514036487" redirect="true"/>
+  <file name="gizmo.html" crc="4230129617" seo="true" mt="1510514010833" redirect="true"/>
+  <file name="whego.html" crc="4084515217" seo="true" mt="1510513999541" redirect="true"/>
 </manifest>
