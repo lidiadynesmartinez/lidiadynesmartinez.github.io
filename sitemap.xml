@@ -2,132 +2,407 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dynesdesigns.com/index.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406.png</image:loc>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines20x20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x.png</image:loc>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u1854062.png</image:loc>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines20x20_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4-crop-u185406_2x2.png</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo100x100.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/untitled-4_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/portfolio.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/head_get_left.svg</image:loc>
-      <image:caption>Get Your Pigeon On</image:caption>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo100x100_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dynesdesigns.com/acrui.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201-crop-u11320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202-crop-u11322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203-crop-u11330.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204-crop-u11326.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205-crop-u11318.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206-crop-u11324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207-crop-u11328.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208535x535.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208234x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208234x234_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201941x942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202935x936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203938x938.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204941x941.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205935x935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206935x935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207935x935.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201203x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201203x203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205203x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205203x204_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202203x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202203x204_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207203x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207203x203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204203x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204203x203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206203x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206203x203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203203x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203203x203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208203x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208203x204_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207480x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208358x358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20160x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20160x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20560x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20560x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20260x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20260x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20760x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20760x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20460x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20460x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20660x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20660x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20360x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20360x60_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20860x60.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%20860x60_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dynesdesigns.com/amun.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/miniwheg.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201-crop-u12086.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202-crop-u12074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203-crop-u12078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204-crop-u12076.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205-crop-u12088.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206-crop-u12084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207-crop-u12080.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://dynesdesigns.com/gizmo.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/name.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/behance-logo-button-(2).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/pinterest-logotype-circle.svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/linkedin-logo-(1).svg</image:loc>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201-crop-u30900.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202-crop-u30888.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203-crop-u30892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204-crop-u30896.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205-crop-u30890.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206-crop-u30894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207-crop-u30898.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dynesdesigns.com/whego.html</loc>
+    <lastmod>2017-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%201-crop-u12910.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%202-crop-u12900.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%203-crop-u12904.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%204-crop-u12896.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%205-crop-u12898.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%206-crop-u12908.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/portfolio%207-crop-u12902.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
