@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510500968170">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510511622225">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4008642070" ref="index"/>
-    <file name="nomq_index.css" crc="4093853809" ref="index"/>
-    <file name="acrui.css" crc="396197157" ref="acrui"/>
-    <file name="nomq_acrui.css" crc="92472660" ref="acrui"/>
-    <file name="gizmo.css" crc="66140385" ref="gizmo"/>
-    <file name="nomq_gizmo.css" crc="4225871348" ref="gizmo"/>
-    <file name="amun.css" crc="441945293" ref="amun"/>
-    <file name="nomq_amun.css" crc="81824974" ref="amun"/>
-    <file name="master_a-master.css" crc="85634816" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="index.css" crc="447972463" ref="index"/>
+    <file name="nomq_index.css" crc="4274166460" ref="index"/>
+    <file name="acrui.css" crc="475703156" ref="acrui"/>
+    <file name="nomq_acrui.css" crc="221199173" ref="acrui"/>
+    <file name="gizmo.css" crc="3772992707" ref="gizmo"/>
+    <file name="nomq_gizmo.css" crc="145856669" ref="gizmo"/>
+    <file name="amun.css" crc="512875828" ref="amun"/>
+    <file name="nomq_amun.css" crc="4071699288" ref="amun"/>
+    <file name="master_a-master.css" crc="4203585376" ref="gizmo:index:whego:acrui:amun"/>
     <file name="nomq_preview_master_a-master.css" crc="174352006" ref="gizmo:index:whego:acrui:amun"/>
-    <file name="whego.css" crc="4006706723" ref="whego"/>
-    <file name="nomq_whego.css" crc="4186263483" ref="whego"/>
+    <file name="whego.css" crc="508786624" ref="whego"/>
+    <file name="nomq_whego.css" crc="373561992" ref="whego"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:gizmo:whego"/>
@@ -32,9 +32,6 @@
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u17988.php" crc="4142323349" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="acrui:amun:whego:gizmo"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="acrui:amun:whego:gizmo"/>
-    <file name="touchswipe.js" crc="4066113679" ref="acrui:amun:whego:gizmo"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:acrui:amun:gizmo:whego"/>
@@ -46,27 +43,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -74,6 +50,27 @@
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="logo_2x.png" crc="3786028948" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
@@ -83,27 +80,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -111,140 +87,157 @@
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
-    <file name="hero banner.jpg" crc="208238212" ref="index:acrui:amun:whego:gizmo">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cv photo.png" crc="290123965" seo="true" ref="index:acrui:amun:whego:gizmo">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="cv photo_2x.png" crc="4266876939" seo="true" ref="index:acrui:amun:whego:gizmo">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio banner.jpg" crc="4068800630" ref="index:acrui:amun:whego:gizmo">
+    <file name="hero banner.jpg" crc="208238212" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 1-u26560-fr.jpg" crc="3899883179" ref="index"/>
-    <file name="portfolio 1-u26560-fr_2x.jpg" crc="151580996" ref="index"/>
-    <file name="portfolio 2-u26484-fr.jpg" crc="75783632" ref="index"/>
-    <file name="portfolio 2-u26484-fr_2x.jpg" crc="186147839" ref="index"/>
-    <file name="portfolio 3-u26503-fr.jpg" crc="336638437" ref="index"/>
-    <file name="portfolio 3-u26503-fr_2x.jpg" crc="3775889445" ref="index"/>
-    <file name="portfolio 4-u26529-fr.jpg" crc="4239682849" ref="index"/>
-    <file name="portfolio 4-u26529-fr_2x.jpg" crc="4256796986" ref="index"/>
+    <file name="cv photo.png" crc="290123965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+    </file>
+    <file name="cv photo_2x.png" crc="4266876939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+    </file>
+    <file name="portfolio banner.jpg" crc="4068800630" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfolio 1-u26560-fr.jpg" crc="3784068394" ref="index"/>
+    <file name="portfolio 1-u26560-fr_2x.jpg" crc="4154569734" ref="index"/>
+    <file name="portfolio 2-u26484-fr.jpg" crc="3961470089" ref="index"/>
+    <file name="portfolio 2-u26484-fr_2x.jpg" crc="4160976876" ref="index"/>
+    <file name="portfolio 3-u26503-fr.jpg" crc="4257324846" ref="index"/>
+    <file name="portfolio 3-u26503-fr_2x.jpg" crc="466382735" ref="index"/>
+    <file name="portfolio 4-u26529-fr.jpg" crc="496741107" ref="index"/>
+    <file name="portfolio 4-u26529-fr_2x.jpg" crc="4278098466" ref="index"/>
     <file name="contact-banner.jpg" crc="4257551920" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact-banner_2x.jpg" crc="4005528341" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 1-u26560-fr2.jpg" crc="203519884" ref="index"/>
-    <file name="portfolio 1-u26560-fr_2x2.jpg" crc="59173412" ref="index"/>
-    <file name="portfolio 2-u26484-fr2.jpg" crc="3955102958" ref="index"/>
-    <file name="portfolio 2-u26484-fr_2x2.jpg" crc="489272781" ref="index"/>
-    <file name="portfolio 3-u26503-fr2.jpg" crc="4035874662" ref="index"/>
-    <file name="portfolio 3-u26503-fr_2x2.jpg" crc="154107816" ref="index"/>
-    <file name="portfolio 4-u26529-fr2.jpg" crc="340333500" ref="index"/>
-    <file name="portfolio 4-u26529-fr_2x2.jpg" crc="3764241066" ref="index"/>
+    <file name="portfolio 1-u26560-fr2.jpg" crc="3968997199" ref="index"/>
+    <file name="portfolio 1-u26560-fr_2x2.jpg" crc="3968860198" ref="index"/>
+    <file name="portfolio 2-u26484-fr2.jpg" crc="3827608679" ref="index"/>
+    <file name="portfolio 2-u26484-fr_2x2.jpg" crc="3864880620" ref="index"/>
+    <file name="portfolio 3-u26503-fr2.jpg" crc="226473054" ref="index"/>
+    <file name="portfolio 3-u26503-fr_2x2.jpg" crc="3810201952" ref="index"/>
+    <file name="portfolio 4-u26529-fr2.jpg" crc="115528655" ref="index"/>
+    <file name="portfolio 4-u26529-fr_2x2.jpg" crc="3854756289" ref="index"/>
     <file name="contact-banner-u17923-fr.jpg" crc="459617966" ref="index"/>
     <file name="contact-banner-u17923-fr_2x.jpg" crc="367417351" ref="index"/>
-    <file name="hero banner2.jpg" crc="149903778" ref="index:acrui:amun:whego:gizmo">
+    <file name="hero banner2.jpg" crc="149903778" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero banner_2x.jpg" crc="208238212" ref="index:acrui:amun:whego:gizmo">
+    <file name="hero banner_2x.jpg" crc="208238212" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 1-u26560-fr3.jpg" crc="4011669406" ref="index"/>
-    <file name="portfolio 1-u26560-fr_2x3.jpg" crc="366499093" ref="index"/>
-    <file name="portfolio 2.jpg" crc="4156772698" ref="index">
+    <file name="portfolio 2.jpg" crc="250317450" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 3.jpg" crc="256510254" ref="index">
+    <file name="portfolio 3.jpg" crc="4040157267" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 4.jpg" crc="493517614" ref="index">
+    <file name="portfolio 4.jpg" crc="4026494899" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact-banner-u17923-fr2.jpg" crc="497721479" ref="index"/>
     <file name="contact-banner-u17923-fr_2x2.jpg" crc="332310481" ref="index"/>
-    <file name="hero banner-u1526-fr.jpg" crc="190177396" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="hero banner-u1526-fr_2x.jpg" crc="4129268705" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="portfolio 1-u26560-fr4.jpg" crc="4138548510" ref="index"/>
-    <file name="portfolio 1-u26560-fr_2x4.jpg" crc="4092992256" ref="index"/>
-    <file name="portfolio 22.jpg" crc="3977834450" ref="index">
+    <file name="hero banner-u1526-fr.jpg" crc="190177396" ref="index"/>
+    <file name="hero banner-u1526-fr_2x.jpg" crc="4129268705" ref="index"/>
+    <file name="portfolio 22.jpg" crc="4142027379" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 2_2x.jpg" crc="4156772698" ref="index">
+    <file name="portfolio 2_2x.jpg" crc="250317450" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 32.jpg" crc="368300251" ref="index">
+    <file name="portfolio 32.jpg" crc="469814476" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 3_2x.jpg" crc="256510254" ref="index">
+    <file name="portfolio 3_2x.jpg" crc="4040157267" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 42.jpg" crc="3772120946" ref="index">
+    <file name="portfolio 42.jpg" crc="307292039" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 4_2x.jpg" crc="493517614" ref="index">
+    <file name="portfolio 4_2x.jpg" crc="4026494899" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact-banner-u17923-fr3.jpg" crc="486154706" ref="index"/>
@@ -257,435 +250,127 @@
     <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="gizmo" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
-    <file name="hero banner-u1526-fr2.jpg" crc="3904528117" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="hero banner-u1526-fr_2x2.jpg" crc="280149556" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="portfolio 1.jpg" crc="4265596144" ref="index">
+    <file name="hero banner-u1526-fr2.jpg" crc="3904528117" ref="index"/>
+    <file name="hero banner-u1526-fr_2x2.jpg" crc="280149556" ref="index"/>
+    <file name="portfolio 1.jpg" crc="3889814014" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 1_2x.jpg" crc="482447970" ref="index">
+    <file name="portfolio 1_2x.jpg" crc="4201004967" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact-banner-u17923-fr4.jpg" crc="3774593155" ref="index"/>
     <file name="contact-banner-u17923-fr_2x4.jpg" crc="504933534" ref="index"/>
-    <file name="hero banner-u1526-fr3.jpg" crc="3982350593" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="hero banner-u1526-fr_2x3.jpg" crc="3985892072" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="portfolio banner2.jpg" crc="4041499598" ref="index:acrui:amun:whego:gizmo">
+    <file name="hero banner-u1526-fr3.jpg" crc="3982350593" ref="index"/>
+    <file name="hero banner-u1526-fr_2x3.jpg" crc="3985892072" ref="index"/>
+    <file name="portfolio banner2.jpg" crc="4041499598" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio banner_2x.jpg" crc="4068800630" ref="index:acrui:amun:whego:gizmo">
+    <file name="portfolio banner_2x.jpg" crc="4068800630" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio 1-u26560-fr5.jpg" crc="4293304670" ref="index"/>
-    <file name="portfolio 1-u26560-fr_2x5.jpg" crc="4211565592" ref="index"/>
     <file name="contact-banner-u17923-fr5.jpg" crc="4273239538" ref="index"/>
     <file name="contact-banner-u17923-fr_2x5.jpg" crc="459442737" ref="index"/>
     <file name="menu-of-three-lines20x20_2x.png" crc="442271933" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero banner-u1526-fr4.jpg" crc="399748746" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="hero banner-u1526-fr_2x4.jpg" crc="434449790" ref="index:acrui:amun:whego:gizmo"/>
+    <file name="hero banner-u1526-fr4.jpg" crc="399748746" ref="index"/>
+    <file name="hero banner-u1526-fr_2x4.jpg" crc="434449790" ref="index"/>
     <file name="cv photo100x100.png" crc="4224606470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cv photo100x100_2x.png" crc="3890909650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portfolio banner-u5234-fr.jpg" crc="3985900483" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="portfolio banner-u5234-fr_2x.jpg" crc="444002295" ref="index:acrui:amun:whego:gizmo"/>
-    <file name="contact-banner-u17923-fr6.jpg" crc="3913471189" ref="index"/>
-    <file name="contact-banner-u17923-fr_2x6.jpg" crc="400915560" ref="index"/>
-    <file name="portfolio 1-crop-u11320.jpg" crc="3935852286" seo="true" ref="acrui">
+    <file name="portfolio banner-u5234-fr.jpg" crc="3985900483" ref="index"/>
+    <file name="portfolio banner-u5234-fr_2x.jpg" crc="444002295" ref="index"/>
+    <file name="gradient.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="portfolio 2-crop-u11322.jpg" crc="3815274178" seo="true" ref="acrui">
+    <file name="acrui-banner.jpg" crc="4011279350" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="portfolio 3-crop-u11330.jpg" crc="124014066" seo="true" ref="acrui">
+    <file name="acrui-banner-u35622-fr.jpg" crc="3761540363" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x.jpg" crc="512067110" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr2.jpg" crc="367927825" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x2.jpg" crc="486652002" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr3.jpg" crc="4092119998" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x3.jpg" crc="111231992" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr4.jpg" crc="3895971431" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x4.jpg" crc="140622976" ref="acrui"/>
+    <file name="gradient2.jpg" crc="325206294" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="portfolio 4-crop-u11326.jpg" crc="3778281213" seo="true" ref="acrui">
+    <file name="gradient_2x.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="portfolio 5-crop-u11318.jpg" crc="3791741821" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6-crop-u11324.jpg" crc="31712064" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7-crop-u11328.jpg" crc="3945278888" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8535x535.jpg" crc="100781295" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1234x234.jpg" crc="4067697579" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1234x234_2x.jpg" crc="4081646787" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5234x234.jpg" crc="461397548" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5234x234_2x.jpg" crc="364052369" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2234x234.jpg" crc="161908711" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2234x234_2x.jpg" crc="93944129" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7234x234.jpg" crc="300327077" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7234x234_2x.jpg" crc="4175298108" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4234x234.jpg" crc="4142172778" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4234x234_2x.jpg" crc="4137934067" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6234x234.jpg" crc="4072080355" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6234x234_2x.jpg" crc="105501638" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3234x234.jpg" crc="4236967083" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3234x234_2x.jpg" crc="66110713" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8234x234.jpg" crc="4030694315" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8234x234_2x.jpg" crc="404075203" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="acrui:amun:whego:gizmo"/>
-    <file name="portfolio 1941x942.jpg" crc="85587929" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2935x936.jpg" crc="4079095786" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3938x938.jpg" crc="256510254" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4941x941.jpg" crc="134650130" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5935x935.jpg" crc="3926463810" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6935x935.jpg" crc="410345885" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7935x935.jpg" crc="417943004" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8.jpg" crc="4156953553" seo="true" ref="acrui:amun:whego:gizmo">
-      <caption webpage="amun" alt=""/>
-      <caption webpage="gizmo" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1203x203.jpg" crc="4277907943" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1203x203_2x.jpg" crc="4231375429" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5203x204.jpg" crc="4261666539" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5203x204_2x.jpg" crc="4192504436" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2203x204.jpg" crc="499838338" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2203x204_2x.jpg" crc="103099475" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7203x203.jpg" crc="259949524" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7203x203_2x.jpg" crc="3837716859" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4203x203.jpg" crc="24420573" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4203x203_2x.jpg" crc="4038314800" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6203x203.jpg" crc="22880384" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6203x203_2x.jpg" crc="517587328" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3203x203.jpg" crc="196433166" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3203x203_2x.jpg" crc="4051474030" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8203x204.jpg" crc="142585425" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8203x204_2x.jpg" crc="126920852" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1480x480.jpg" crc="421840432" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 2480x480.jpg" crc="4177427965" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 3480x480.jpg" crc="4002824612" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 4480x480.jpg" crc="3979694231" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 5480x480.jpg" crc="387696035" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 6480x480.jpg" crc="51687447" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 7480x480.jpg" crc="3871783445" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 8358x358.jpg" crc="442084632" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 160x60.jpg" crc="500782347" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 160x60_2x.jpg" crc="387620454" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 560x60.jpg" crc="3946919926" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 560x60_2x.jpg" crc="4010038800" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 260x60.jpg" crc="338195303" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 260x60_2x.jpg" crc="502309627" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 760x60.jpg" crc="121006797" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 760x60_2x.jpg" crc="3786302774" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 460x60.jpg" crc="179395814" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 460x60_2x.jpg" crc="4235086017" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 660x60.jpg" crc="209262216" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 660x60_2x.jpg" crc="4030495791" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 360x60.jpg" crc="4212340166" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 360x60_2x.jpg" crc="490290608" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 860x60.jpg" crc="395233967" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 860x60_2x.jpg" crc="110700129" seo="true" ref="acrui">
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-    </file>
-    <file name="portfolio 1-crop-u12086.jpg" crc="3935852286" seo="true" ref="amun">
+    <file name="acrui-banner-u35622-fr5.jpg" crc="3781647751" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x5.jpg" crc="338419084" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr6.jpg" crc="141323414" ref="acrui"/>
+    <file name="acrui-banner-u35622-fr_2x6.jpg" crc="445914951" ref="acrui"/>
+    <file name="amun-banner.jpg" crc="4180689333" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="portfolio 2-crop-u12074.jpg" crc="3815274178" seo="true" ref="amun">
+    <file name="amun-banner2.jpg" crc="440664815" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="portfolio 3-crop-u12078.jpg" crc="124014066" seo="true" ref="amun">
+    <file name="amun-banner_2x.jpg" crc="4180689333" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="portfolio 4-crop-u12076.jpg" crc="3778281213" seo="true" ref="amun">
-      <caption webpage="amun" alt=""/>
-    </file>
-    <file name="portfolio 5-crop-u12088.jpg" crc="3791741821" seo="true" ref="amun">
-      <caption webpage="amun" alt=""/>
-    </file>
-    <file name="portfolio 6-crop-u12084.jpg" crc="31712064" seo="true" ref="amun">
-      <caption webpage="amun" alt=""/>
-    </file>
-    <file name="portfolio 7-crop-u12080.jpg" crc="3945278888" seo="true" ref="amun">
-      <caption webpage="amun" alt=""/>
-    </file>
-    <file name="portfolio 1-crop-u12910.jpg" crc="3935852286" seo="true" ref="whego">
+    <file name="amun-banner-u38776-fr.jpg" crc="3913928019" ref="amun"/>
+    <file name="amun-banner-u38776-fr_2x.jpg" crc="4248050998" ref="amun"/>
+    <file name="amun-banner-u38776-fr2.jpg" crc="87287581" ref="amun"/>
+    <file name="amun-banner-u38776-fr_2x2.jpg" crc="4183578383" ref="amun"/>
+    <file name="amun-banner-u38776-fr3.jpg" crc="3796942157" ref="amun"/>
+    <file name="amun-banner-u38776-fr_2x3.jpg" crc="3959906850" ref="amun"/>
+    <file name="amun-banner-u38776-fr4.jpg" crc="3885207071" ref="amun"/>
+    <file name="amun-banner-u38776-fr_2x4.jpg" crc="3959720897" ref="amun"/>
+    <file name="amun-banner-u38776-fr5.jpg" crc="458605511" ref="amun"/>
+    <file name="amun-banner-u38776-fr_2x5.jpg" crc="283483321" ref="amun"/>
+    <file name="miniwheg-banner.jpg" crc="528858062" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="portfolio 2-crop-u12900.jpg" crc="3815274178" seo="true" ref="whego">
+    <file name="miniwheg-banner2.jpg" crc="3991277105" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="portfolio 3-crop-u12904.jpg" crc="124014066" seo="true" ref="whego">
+    <file name="miniwheg-banner_2x.jpg" crc="528858062" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="portfolio 4-crop-u12896.jpg" crc="3778281213" seo="true" ref="whego">
-      <caption webpage="whego" alt=""/>
-    </file>
-    <file name="portfolio 5-crop-u12898.jpg" crc="3791741821" seo="true" ref="whego">
-      <caption webpage="whego" alt=""/>
-    </file>
-    <file name="portfolio 6-crop-u12908.jpg" crc="31712064" seo="true" ref="whego">
-      <caption webpage="whego" alt=""/>
-    </file>
-    <file name="portfolio 7-crop-u12902.jpg" crc="3945278888" seo="true" ref="whego">
-      <caption webpage="whego" alt=""/>
-    </file>
-    <file name="portfolio 1-crop-u30900.jpg" crc="3935852286" seo="true" ref="gizmo">
+    <file name="miniwheg-banner-u40165-fr.jpg" crc="153818466" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x.jpg" crc="688659" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr2.jpg" crc="4111893304" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x2.jpg" crc="4203032001" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr3.jpg" crc="3969919555" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x3.jpg" crc="3862915415" ref="whego"/>
+    <file name="gizmo-banner.jpg" crc="4046406325" ref="gizmo">
       <caption webpage="gizmo" alt=""/>
     </file>
-    <file name="portfolio 2-crop-u30888.jpg" crc="3815274178" seo="true" ref="gizmo">
+    <file name="gizmo-banner2.jpg" crc="4026460425" ref="gizmo">
       <caption webpage="gizmo" alt=""/>
     </file>
-    <file name="portfolio 3-crop-u30892.jpg" crc="124014066" seo="true" ref="gizmo">
+    <file name="gizmo-banner_2x.jpg" crc="4046406325" ref="gizmo">
       <caption webpage="gizmo" alt=""/>
     </file>
-    <file name="portfolio 4-crop-u30896.jpg" crc="3778281213" seo="true" ref="gizmo">
-      <caption webpage="gizmo" alt=""/>
-    </file>
-    <file name="portfolio 5-crop-u30890.jpg" crc="3791741821" seo="true" ref="gizmo">
-      <caption webpage="gizmo" alt=""/>
-    </file>
-    <file name="portfolio 6-crop-u30894.jpg" crc="31712064" seo="true" ref="gizmo">
-      <caption webpage="gizmo" alt=""/>
-    </file>
-    <file name="portfolio 7-crop-u30898.jpg" crc="3945278888" seo="true" ref="gizmo">
-      <caption webpage="gizmo" alt=""/>
-    </file>
+    <file name="gizmo-banner-u40788-fr.jpg" crc="3944773724" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr_2x.jpg" crc="25137404" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr2.jpg" crc="4058267054" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr_2x2.jpg" crc="4158030246" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr3.jpg" crc="3854333221" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr_2x3.jpg" crc="3955034822" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr4.jpg" crc="67129185" ref="gizmo"/>
+    <file name="gizmo-banner-u40788-fr_2x4.jpg" crc="4010879878" ref="gizmo"/>
   </folder>
-  <file name="index.html" crc="296848488" seo="true" mt="1510500865275" redirect="true"/>
-  <file name="acrui.html" crc="500590255" seo="true" mt="1510500865276" redirect="true"/>
-  <file name="amun.html" crc="239246494" seo="true" mt="1510500865273" redirect="true"/>
-  <file name="gizmo.html" crc="3787875657" seo="true" mt="1510500865277" redirect="true"/>
-  <file name="whego.html" crc="4143131156" seo="true" mt="1510500865272" redirect="true"/>
+  <file name="index.html" crc="78549636" seo="true" mt="1510511573123" redirect="true"/>
+  <file name="acrui.html" crc="1193619" seo="true" mt="1510506143954" redirect="true"/>
+  <file name="amun.html" crc="3947945823" seo="true" mt="1510506144102" redirect="true"/>
+  <file name="gizmo.html" crc="111740992" seo="true" mt="1510505883096" redirect="true"/>
+  <file name="whego.html" crc="110476783" seo="true" mt="1510506104988" redirect="true"/>
 </manifest>
