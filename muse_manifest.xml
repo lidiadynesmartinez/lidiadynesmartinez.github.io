@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510764229338">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510764668434">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -8,14 +8,14 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="503335070" ref="index"/>
     <file name="nomq_index.css" crc="4041450372" ref="index"/>
-    <file name="acrui.css" crc="3917574141" ref="acrui"/>
-    <file name="nomq_acrui.css" crc="205304920" ref="acrui"/>
+    <file name="acrui.css" crc="4210390241" ref="acrui"/>
+    <file name="nomq_acrui.css" crc="3984557380" ref="acrui"/>
     <file name="gizmo.css" crc="511058684" ref="gizmo"/>
     <file name="nomq_gizmo.css" crc="255786446" ref="gizmo"/>
     <file name="amun.css" crc="405254325" ref="amun"/>
     <file name="nomq_amun.css" crc="498895907" ref="amun"/>
-    <file name="master_a-master.css" crc="4171842555" ref="gizmo:index:whego:acrui:amun"/>
-    <file name="nomq_preview_master_a-master.css" crc="174352006" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="master_a-master.css" crc="430235196" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun"/>
     <file name="whego.css" crc="404568569" ref="whego"/>
     <file name="nomq_whego.css" crc="4073807312" ref="whego"/>
   </folder>
@@ -55,13 +55,6 @@
       <caption webpage="whego" alt=""/>
       <caption webpage="whego" alt=""/>
       <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
@@ -69,6 +62,13 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -92,13 +92,6 @@
       <caption webpage="whego" alt=""/>
       <caption webpage="whego" alt=""/>
       <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
@@ -106,6 +99,13 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -247,20 +247,23 @@
     </file>
     <file name="contact-banner-u17923-fr3.jpg" crc="486154706" ref="index"/>
     <file name="contact-banner-u17923-fr_2x3.jpg" crc="4046846787" ref="index"/>
-    <file name="menu-of-three-lines20x20.png" crc="3822228153" seo="true" ref="index">
+    <file name="menu-of-three-lines20x20.png" crc="3822228153" seo="true" ref="index:acrui">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
     </file>
     <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="whego" alt=""/>
       <caption webpage="whego" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
     </file>
@@ -284,8 +287,9 @@
     </file>
     <file name="contact-banner-u17923-fr5.jpg" crc="4273239538" ref="index"/>
     <file name="contact-banner-u17923-fr_2x5.jpg" crc="459442737" ref="index"/>
-    <file name="menu-of-three-lines20x20_2x.png" crc="442271933" seo="true" ref="index">
+    <file name="menu-of-three-lines20x20_2x.png" crc="442271933" seo="true" ref="index:acrui">
       <caption webpage="index" alt=""/>
+      <caption webpage="acrui" alt=""/>
     </file>
     <file name="hero banner-u1526-fr4.jpg" crc="399748746" ref="index"/>
     <file name="hero banner-u1526-fr_2x4.jpg" crc="434449790" ref="index"/>
@@ -461,13 +465,13 @@
     <file name="picture4.jpg" crc="6195329" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="picture2-crop-u48137.jpg" crc="3939810330" seo="true" ref="acrui">
+    <file name="picture2-crop-u48137.jpg" crc="490339717" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
     <file name="picture2-crop-u48137_2x.jpg" crc="4059400004" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="picture3-crop-u48093.jpg" crc="511916393" seo="true" ref="acrui">
+    <file name="picture3-crop-u48093.jpg" crc="3799155476" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
     <file name="picture3-crop-u48093_2x.jpg" crc="409379514" seo="true" ref="acrui">
@@ -1205,7 +1209,7 @@
     </file>
   </folder>
   <file name="index.html" crc="289910316" seo="true" mt="1510759911372" redirect="true"/>
-  <file name="acrui.html" crc="269658144" seo="true" mt="1510764173972" redirect="true"/>
+  <file name="acrui.html" crc="317055320" seo="true" mt="1510764595225" redirect="true"/>
   <file name="amun.html" crc="4251715604" seo="true" mt="1510763875791" redirect="true"/>
   <file name="gizmo.html" crc="3918227252" seo="true" mt="1510759911372" redirect="true"/>
   <file name="whego.html" crc="3804592488" seo="true" mt="1510759911372" redirect="true"/>
