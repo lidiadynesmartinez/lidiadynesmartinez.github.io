@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510782501565">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510783662398">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -14,10 +14,10 @@
     <file name="nomq_gizmo.css" crc="255786446" ref="gizmo"/>
     <file name="amun.css" crc="222167809" ref="amun"/>
     <file name="nomq_amun.css" crc="498895907" ref="amun"/>
-    <file name="master_a-master.css" crc="4171842555" ref="gizmo:index:whego:acrui:amun"/>
-    <file name="nomq_preview_master_a-master.css" crc="174352006" ref="gizmo:index:whego:acrui:amun"/>
-    <file name="whego.css" crc="4081970448" ref="whego"/>
-    <file name="nomq_whego.css" crc="135262368" ref="whego"/>
+    <file name="master_a-master.css" crc="430235196" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="whego.css" crc="174848607" ref="whego"/>
+    <file name="nomq_whego.css" crc="438770449" ref="whego"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:gizmo:whego"/>
@@ -247,13 +247,16 @@
     </file>
     <file name="contact-banner-u17923-fr3.jpg" crc="486154706" ref="index"/>
     <file name="contact-banner-u17923-fr_2x3.jpg" crc="4046846787" ref="index"/>
-    <file name="menu-of-three-lines20x20.png" crc="3822228153" seo="true" ref="index:acrui">
+    <file name="menu-of-three-lines20x20.png" crc="3822228153" seo="true" ref="index:acrui:whego">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
@@ -287,9 +290,10 @@
     </file>
     <file name="contact-banner-u17923-fr5.jpg" crc="4273239538" ref="index"/>
     <file name="contact-banner-u17923-fr_2x5.jpg" crc="459442737" ref="index"/>
-    <file name="menu-of-three-lines20x20_2x.png" crc="442271933" seo="true" ref="index:acrui">
+    <file name="menu-of-three-lines20x20_2x.png" crc="442271933" seo="true" ref="index:acrui:whego">
       <caption webpage="index" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="hero banner-u1526-fr4.jpg" crc="399748746" ref="index"/>
     <file name="hero banner-u1526-fr_2x4.jpg" crc="434449790" ref="index"/>
@@ -303,6 +307,7 @@
     <file name="portfolio banner-u5234-fr_2x.jpg" crc="444002295" ref="index"/>
     <file name="gradient.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="acrui-banner.jpg" crc="4011279350" ref="acrui">
       <caption webpage="acrui" alt=""/>
@@ -317,9 +322,11 @@
     <file name="acrui-banner-u35622-fr_2x4.jpg" crc="140622976" ref="acrui"/>
     <file name="gradient2.jpg" crc="325206294" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="gradient_2x.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
     </file>
     <file name="acrui-banner-u35622-fr5.jpg" crc="3781647751" ref="acrui"/>
     <file name="acrui-banner-u35622-fr_2x5.jpg" crc="338419084" ref="acrui"/>
@@ -1423,5 +1430,5 @@
   <file name="acrui.html" crc="4221667651" seo="true" mt="1510765695098" redirect="true"/>
   <file name="amun.html" crc="4053225077" seo="true" mt="1510765572075" redirect="true"/>
   <file name="gizmo.html" crc="3918227252" seo="true" mt="1510759911372" redirect="true"/>
-  <file name="whego.html" crc="193659830" seo="true" mt="1510782450191" redirect="true"/>
+  <file name="whego.html" crc="182836928" seo="true" mt="1510783583875" redirect="true"/>
 </manifest>
