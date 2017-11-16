@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510832212462">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510832520554">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -6,8 +6,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="112027375" ref="index"/>
-    <file name="nomq_index.css" crc="29883546" ref="index"/>
+    <file name="index.css" crc="339699491" ref="index"/>
+    <file name="nomq_index.css" crc="3834040645" ref="index"/>
     <file name="acrui.css" crc="303186288" ref="acrui"/>
     <file name="nomq_acrui.css" crc="396849829" ref="acrui"/>
     <file name="gizmo.css" crc="511058684" ref="gizmo"/>
@@ -1428,7 +1428,7 @@
     <file name="portfolio 4-u26529-fr3.jpg" crc="199658128" ref="index"/>
     <file name="portfolio 4-u26529-fr_2x3.jpg" crc="85189218" ref="index"/>
   </folder>
-  <file name="index.html" crc="4041151968" seo="true" mt="1510832175942" redirect="true"/>
+  <file name="index.html" crc="459703046" seo="true" mt="1510832493099" redirect="true"/>
   <file name="acrui.html" crc="4221667651" seo="true" mt="1510765695098" redirect="true"/>
   <file name="amun.html" crc="4053225077" seo="true" mt="1510765572075" redirect="true"/>
   <file name="gizmo.html" crc="3918227252" seo="true" mt="1510759911372" redirect="true"/>
