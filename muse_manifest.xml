@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510783662398">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510832212462">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -6,15 +6,15 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="503335070" ref="index"/>
-    <file name="nomq_index.css" crc="4041450372" ref="index"/>
+    <file name="index.css" crc="112027375" ref="index"/>
+    <file name="nomq_index.css" crc="29883546" ref="index"/>
     <file name="acrui.css" crc="303186288" ref="acrui"/>
     <file name="nomq_acrui.css" crc="396849829" ref="acrui"/>
     <file name="gizmo.css" crc="511058684" ref="gizmo"/>
     <file name="nomq_gizmo.css" crc="255786446" ref="gizmo"/>
     <file name="amun.css" crc="222167809" ref="amun"/>
     <file name="nomq_amun.css" crc="498895907" ref="amun"/>
-    <file name="master_a-master.css" crc="430235196" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="master_a-master.css" crc="291785813" ref="gizmo:index:whego:acrui:amun"/>
     <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun"/>
     <file name="whego.css" crc="174848607" ref="whego"/>
     <file name="nomq_whego.css" crc="438770449" ref="whego"/>
@@ -48,20 +48,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -76,6 +62,20 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
     </file>
     <file name="logo_2x.png" crc="3786028948" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
@@ -85,20 +85,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -113,6 +99,20 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
     </file>
     <file name="hero banner.jpg" crc="208238212" ref="index">
       <caption webpage="index" alt=""/>
@@ -124,12 +124,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -142,6 +136,12 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -156,12 +156,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
@@ -174,6 +168,12 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -261,14 +261,14 @@
     <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="amun" alt=""/>
-      <caption webpage="amun" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="amun" alt=""/>
+      <caption webpage="amun" alt=""/>
     </file>
     <file name="hero banner-u1526-fr2.jpg" crc="3904528117" ref="index"/>
     <file name="hero banner-u1526-fr_2x2.jpg" crc="280149556" ref="index"/>
@@ -1425,8 +1425,10 @@
     <file name="pastedimage0 (3)-crop-u723736.jpg" crc="4080597167" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
+    <file name="portfolio 4-u26529-fr3.jpg" crc="199658128" ref="index"/>
+    <file name="portfolio 4-u26529-fr_2x3.jpg" crc="85189218" ref="index"/>
   </folder>
-  <file name="index.html" crc="289910316" seo="true" mt="1510759911372" redirect="true"/>
+  <file name="index.html" crc="4041151968" seo="true" mt="1510832175942" redirect="true"/>
   <file name="acrui.html" crc="4221667651" seo="true" mt="1510765695098" redirect="true"/>
   <file name="amun.html" crc="4053225077" seo="true" mt="1510765572075" redirect="true"/>
   <file name="gizmo.html" crc="3918227252" seo="true" mt="1510759911372" redirect="true"/>
