@@ -12,12 +12,6 @@
       <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/cv%20photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cv%20photo_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/menu-of-three-lines20x20.png</image:loc>
     </image:image>
     <image:image>
@@ -25,12 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/menu-of-three-lines20x20_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cv%20photo100x100.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/cv%20photo100x100_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -232,21 +220,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/picture3-crop-u48093_2x7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/gizmo.html</loc>
-    <lastmod>2017-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -997,8 +970,98 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/resume2.pdf</loc>
+    <loc>http://dynesdesigns.com/gizmo.html</loc>
     <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3435.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dsc_3504.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dynesdesigns.com/avii.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/artboard%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/artboard%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2071.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2075.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2088.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2097.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/dscf2102.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
+    <lastmod>2016-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1009,14 +1072,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
-    <lastmod>2017-11-13</lastmod>
+    <loc>http://dynesdesigns.com/assets/resume2.pdf</loc>
+    <lastmod>2017-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
-    <lastmod>2016-11-10</lastmod>
+    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
