@@ -1,8 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510933378727">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510933661391">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
     <file name="final-design.jp2" crc="419381883" seo="true" mt="1510576337000"/>
+    <file name="resume2.pdf" crc="4161855666" seo="true" mt="1510927735000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -14,8 +15,8 @@
     <file name="nomq_gizmo.css" crc="255786446" ref="gizmo"/>
     <file name="amun.css" crc="4171829417" ref="amun"/>
     <file name="nomq_amun.css" crc="498895907" ref="amun"/>
-    <file name="master_a-master.css" crc="141801534" ref="gizmo:index:whego:acrui:amun:electronics"/>
-    <file name="nomq_preview_master_a-master.css" crc="174352006" ref="gizmo:index:whego:acrui:amun:electronics"/>
+    <file name="master_a-master.css" crc="3816835005" ref="gizmo:index:whego:acrui:amun:electronics"/>
+    <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun:electronics"/>
     <file name="whego.css" crc="366743718" ref="whego"/>
     <file name="nomq_whego.css" crc="438770449" ref="whego"/>
     <file name="electronics.css" crc="3955926642" ref="electronics"/>
@@ -1495,7 +1496,7 @@
       <caption webpage="electronics" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="168259886" seo="true" mt="1510933307688" redirect="true"/>
+  <file name="index.html" crc="388381191" seo="true" mt="1510933600339" redirect="true"/>
   <file name="acrui.html" crc="4109334858" seo="true" mt="1510921169306" redirect="true"/>
   <file name="amun.html" crc="3938096427" seo="true" mt="1510921169306" redirect="true"/>
   <file name="gizmo.html" crc="3915344294" seo="true" mt="1510921169306" redirect="true"/>

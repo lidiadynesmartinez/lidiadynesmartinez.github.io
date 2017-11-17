@@ -733,21 +733,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/gizmo.html</loc>
-    <lastmod>2017-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://dynesdesigns.com/whego.html</loc>
     <lastmod>2017-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -964,6 +949,21 @@
     </image:image>
   </url>
   <url>
+    <loc>http://dynesdesigns.com/gizmo.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://dynesdesigns.com/electronics.html</loc>
     <lastmod>2017-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1048,8 +1048,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
-    <lastmod>2017-11-13</lastmod>
+    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
+    <lastmod>2016-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1060,8 +1060,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
-    <lastmod>2016-11-10</lastmod>
+    <loc>http://dynesdesigns.com/assets/resume2.pdf</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
