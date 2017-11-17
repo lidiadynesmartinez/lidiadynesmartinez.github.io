@@ -235,6 +235,21 @@
     </image:image>
   </url>
   <url>
+    <loc>http://dynesdesigns.com/gizmo.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://dynesdesigns.com/amun.html</loc>
     <lastmod>2017-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -949,107 +964,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/gizmo.html</loc>
+    <loc>http://dynesdesigns.com/assets/resume2.pdf</loc>
     <lastmod>2017-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/electronics.html</loc>
-    <lastmod>2017-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/menu-of-three-lines_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(1).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633452_1718203311533335_763413655_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633452_1718203311533335_763413655_o_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23660713_1718203298200003_1026721214_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23660713_1718203298200003_1026721214_o_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633369_1718203301533336_1006229589_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633369_1718203301533336_1006229589_o_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633379_1718203304866669_1886988365_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/23633379_1718203304866669_1886988365_o_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u81538.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815382.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u81518.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815383.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u815182.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815384.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u815183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815385.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u815184.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815386.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u815185.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(2)-crop-u815387.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/pastedimage0%20(3)-crop-u815186.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
-    <lastmod>2016-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1060,14 +976,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/resume2.pdf</loc>
-    <lastmod>2017-11-17</lastmod>
+    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dynesdesigns.com/assets/final-design.jp2</loc>
-    <lastmod>2017-11-13</lastmod>
+    <loc>http://dynesdesigns.com/assets/-ppc-page_transitions.mulib</loc>
+    <lastmod>2016-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

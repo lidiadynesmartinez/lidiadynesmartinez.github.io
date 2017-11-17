@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510933661391">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1510935415311">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -7,43 +7,41 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="394702930" ref="index"/>
-    <file name="nomq_index.css" crc="465830644" ref="index"/>
+    <file name="index.css" crc="3960171616" ref="index"/>
+    <file name="nomq_index.css" crc="434120593" ref="index"/>
     <file name="acrui.css" crc="240700402" ref="acrui"/>
     <file name="nomq_acrui.css" crc="396849829" ref="acrui"/>
     <file name="gizmo.css" crc="4260634156" ref="gizmo"/>
     <file name="nomq_gizmo.css" crc="255786446" ref="gizmo"/>
     <file name="amun.css" crc="4171829417" ref="amun"/>
     <file name="nomq_amun.css" crc="498895907" ref="amun"/>
-    <file name="master_a-master.css" crc="3816835005" ref="gizmo:index:whego:acrui:amun:electronics"/>
-    <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun:electronics"/>
+    <file name="master_a-master.css" crc="463688712" ref="gizmo:index:whego:acrui:amun"/>
+    <file name="nomq_preview_master_a-master.css" crc="195033859" ref="gizmo:index:whego:acrui:amun"/>
     <file name="whego.css" crc="366743718" ref="whego"/>
     <file name="nomq_whego.css" crc="438770449" ref="whego"/>
-    <file name="electronics.css" crc="3955926642" ref="electronics"/>
-    <file name="nomq_electronics.css" crc="4272382234" ref="electronics"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="museutils.js" crc="3803043152" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="whatinput.js" crc="86476730" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:acrui:amun:whego:gizmo:electronics"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="webpro.js" crc="242022427" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="require.js" crc="4157109226" ref="index:acrui:amun:gizmo:whego:electronics"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="museutils.js" crc="3803043152" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="whatinput.js" crc="86476730" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:acrui:amun:whego:gizmo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="webpro.js" crc="242022427" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="require.js" crc="4157109226" ref="index:acrui:amun:gizmo:whego"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u17988.php" crc="4142323349" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:acrui:amun:whego:gizmo:electronics"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:acrui:amun:whego:gizmo"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:acrui:amun:gizmo:whego:electronics"/>
-    <file name="logo.png" crc="4270137551" seo="true" ref="index:acrui:amun:whego:gizmo:electronics">
+    <file name="blank.gif" crc="4208392903" ref="index:acrui:amun:gizmo:whego"/>
+    <file name="logo.png" crc="4270137551" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,13 +70,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -86,8 +77,15 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
     </file>
-    <file name="logo_2x.png" crc="3786028948" seo="true" ref="index:acrui:amun:whego:gizmo:electronics">
+    <file name="logo_2x.png" crc="3786028948" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -116,13 +114,6 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -130,6 +121,13 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
     </file>
     <file name="hero banner.jpg" crc="208238212" ref="index">
       <caption webpage="index" alt=""/>
@@ -275,7 +273,7 @@
       <caption webpage="acrui" alt=""/>
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo:electronics">
+    <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:gizmo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="whego" alt=""/>
@@ -284,10 +282,10 @@
       <caption webpage="acrui" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
     </file>
     <file name="hero banner-u1526-fr2.jpg" crc="3904528117" ref="index"/>
     <file name="hero banner-u1526-fr_2x2.jpg" crc="280149556" ref="index"/>
@@ -324,7 +322,7 @@
     </file>
     <file name="portfolio banner-u5234-fr.jpg" crc="3985900483" ref="index"/>
     <file name="portfolio banner-u5234-fr_2x.jpg" crc="444002295" ref="index"/>
-    <file name="gradient.jpg" crc="3836402188" ref="acrui:whego:gizmo:electronics">
+    <file name="gradient.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
     </file>
@@ -339,11 +337,11 @@
     <file name="acrui-banner-u35622-fr_2x3.jpg" crc="111231992" ref="acrui"/>
     <file name="acrui-banner-u35622-fr4.jpg" crc="3895971431" ref="acrui"/>
     <file name="acrui-banner-u35622-fr_2x4.jpg" crc="140622976" ref="acrui"/>
-    <file name="gradient2.jpg" crc="325206294" ref="acrui:whego:gizmo:electronics">
+    <file name="gradient2.jpg" crc="325206294" ref="acrui:whego:gizmo">
       <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="gradient_2x.jpg" crc="3836402188" ref="acrui:whego:gizmo:electronics">
+    <file name="gradient_2x.jpg" crc="3836402188" ref="acrui:whego:gizmo">
       <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
     </file>
@@ -370,21 +368,21 @@
     <file name="amun-banner-u38776-fr_2x4.jpg" crc="3959720897" ref="amun"/>
     <file name="amun-banner-u38776-fr5.jpg" crc="458605511" ref="amun"/>
     <file name="amun-banner-u38776-fr_2x5.jpg" crc="283483321" ref="amun"/>
-    <file name="miniwheg-banner.jpg" crc="528858062" ref="whego:electronics">
+    <file name="miniwheg-banner.jpg" crc="528858062" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="miniwheg-banner2.jpg" crc="3991277105" ref="whego:electronics">
+    <file name="miniwheg-banner2.jpg" crc="3991277105" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="miniwheg-banner_2x.jpg" crc="528858062" ref="whego:electronics">
+    <file name="miniwheg-banner_2x.jpg" crc="528858062" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="miniwheg-banner-u40165-fr.jpg" crc="153818466" ref="whego:electronics"/>
-    <file name="miniwheg-banner-u40165-fr_2x.jpg" crc="688659" ref="whego:electronics"/>
-    <file name="miniwheg-banner-u40165-fr2.jpg" crc="4111893304" ref="whego:electronics"/>
-    <file name="miniwheg-banner-u40165-fr_2x2.jpg" crc="4203032001" ref="whego:electronics"/>
-    <file name="miniwheg-banner-u40165-fr3.jpg" crc="3969919555" ref="whego:electronics"/>
-    <file name="miniwheg-banner-u40165-fr_2x3.jpg" crc="3862915415" ref="whego:electronics"/>
+    <file name="miniwheg-banner-u40165-fr.jpg" crc="153818466" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x.jpg" crc="688659" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr2.jpg" crc="4111893304" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x2.jpg" crc="4203032001" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr3.jpg" crc="3969919555" ref="whego"/>
+    <file name="miniwheg-banner-u40165-fr_2x3.jpg" crc="3862915415" ref="whego"/>
     <file name="gizmo-banner.jpg" crc="4046406325" ref="gizmo">
       <caption webpage="gizmo" alt=""/>
     </file>
@@ -1236,43 +1234,43 @@
     <file name="pastedimage0 (2)-crop-u72282.jpg" crc="3851955547" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
     </file>
-    <file name="pastedimage0 (3).jpg" crc="467929944" seo="true" ref="whego:electronics">
+    <file name="pastedimage0 (3).jpg" crc="467929944" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="pastedimage0 (1).jpg" crc="132299652" seo="true" ref="whego:electronics">
+    <file name="pastedimage0 (1).jpg" crc="132299652" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633452_1718203311533335_763413655_o.jpg" crc="518156370" seo="true" ref="whego:electronics">
+    <file name="23633452_1718203311533335_763413655_o.jpg" crc="518156370" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633452_1718203311533335_763413655_o_2x.jpg" crc="3978143014" seo="true" ref="whego:electronics">
+    <file name="23633452_1718203311533335_763413655_o_2x.jpg" crc="3978143014" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23660713_1718203298200003_1026721214_o.jpg" crc="350205046" seo="true" ref="whego:electronics">
+    <file name="23660713_1718203298200003_1026721214_o.jpg" crc="350205046" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23660713_1718203298200003_1026721214_o_2x.jpg" crc="17712969" seo="true" ref="whego:electronics">
+    <file name="23660713_1718203298200003_1026721214_o_2x.jpg" crc="17712969" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633369_1718203301533336_1006229589_o.jpg" crc="4233915009" seo="true" ref="whego:electronics">
+    <file name="23633369_1718203301533336_1006229589_o.jpg" crc="4233915009" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633369_1718203301533336_1006229589_o_2x.jpg" crc="213949427" seo="true" ref="whego:electronics">
+    <file name="23633369_1718203301533336_1006229589_o_2x.jpg" crc="213949427" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633379_1718203304866669_1886988365_o.jpg" crc="4159661977" seo="true" ref="whego:electronics">
+    <file name="23633379_1718203304866669_1886988365_o.jpg" crc="4159661977" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
-    <file name="23633379_1718203304866669_1886988365_o_2x.jpg" crc="179209515" seo="true" ref="whego:electronics">
+    <file name="23633379_1718203304866669_1886988365_o_2x.jpg" crc="179209515" seo="true" ref="whego">
       <caption webpage="whego" alt=""/>
       <caption webpage="electronics" alt=""/>
     </file>
@@ -1456,50 +1454,10 @@
     </file>
     <file name="portfolio 4-u26529-fr3.jpg" crc="199658128" ref="index"/>
     <file name="portfolio 4-u26529-fr_2x3.jpg" crc="85189218" ref="index"/>
-    <file name="pastedimage0 (2)-crop-u81538.jpg" crc="3851955547" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815382.jpg" crc="4064973093" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u81518.jpg" crc="151259468" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815383.jpg" crc="3972193062" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u815182.jpg" crc="4051095155" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815384.jpg" crc="306906000" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u815183.jpg" crc="3874718458" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815385.jpg" crc="3835327928" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u815184.jpg" crc="186446933" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815386.jpg" crc="4218131573" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u815185.jpg" crc="433242296" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (2)-crop-u815387.jpg" crc="479599967" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
-    <file name="pastedimage0 (3)-crop-u815186.jpg" crc="186446933" seo="true" ref="electronics">
-      <caption webpage="electronics" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="388381191" seo="true" mt="1510933600339" redirect="true"/>
+  <file name="index.html" crc="4070561887" seo="true" mt="1510935252337" redirect="true"/>
   <file name="acrui.html" crc="4109334858" seo="true" mt="1510921169306" redirect="true"/>
   <file name="amun.html" crc="3938096427" seo="true" mt="1510921169306" redirect="true"/>
   <file name="gizmo.html" crc="3915344294" seo="true" mt="1510921169306" redirect="true"/>
   <file name="whego.html" crc="139980968" seo="true" mt="1510921169306" redirect="true"/>
-  <file name="electronics.html" crc="4291450586" seo="true" mt="1510921169306" redirect="true"/>
 </manifest>
