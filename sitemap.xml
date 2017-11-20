@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dynesdesigns.com/index.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -215,7 +215,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/avii.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -260,7 +260,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/futures.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/sketching.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -346,12 +346,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2472317x238_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471317x238.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471317x238_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2459317x238.jpg</image:loc>
@@ -516,12 +510,6 @@
       <image:loc>http://dynesdesigns.com/images/img_2472277x208_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471277x208.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471277x208_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2459277x208.jpg</image:loc>
     </image:image>
     <image:image>
@@ -682,12 +670,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2472235x176_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471235x176.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471235x176_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2459235x176.jpg</image:loc>
@@ -906,12 +888,6 @@
       <image:loc>http://dynesdesigns.com/images/img_2475273x204_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471273x205.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471273x205_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2484273x205.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1072,12 +1048,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2475215x161_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471215x161.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471215x161_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2484215x161.jpg</image:loc>
@@ -1248,12 +1218,6 @@
       <image:loc>http://dynesdesigns.com/images/img_2475_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2484.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1416,12 +1380,6 @@
       <image:loc>http://dynesdesigns.com/images/img_2475280x209_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471280x210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dynesdesigns.com/images/img_2471280x210_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2484280x210.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1463,10 +1421,52 @@
     <image:image>
       <image:loc>http://dynesdesigns.com/images/img_2488280x373_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455317x238.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455317x238_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455277x208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455277x208_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455235x176.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455235x176_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455273x205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455273x205_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455215x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455215x161_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455280x210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynesdesigns.com/images/img_2455280x210_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dynesdesigns.com/acrui.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1667,7 +1667,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/amun.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2144,7 +2144,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/tacana.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2189,7 +2189,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/segway.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2204,7 +2204,7 @@
   </url>
   <url>
     <loc>http://dynesdesigns.com/tandem.html</loc>
-    <lastmod>2017-11-18</lastmod>
+    <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

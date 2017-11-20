@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1511100243405">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dynesdesigns.com" resolutions="1x,2x" timestamp="1511218326362">
   <folder name="assets">
     <file name="resume.pdf" crc="4250998153" seo="true" mt="1510571714000"/>
     <file name="-ppc-page_transitions.mulib" crc="3848673589" seo="true" mt="1478793352000"/>
@@ -7,28 +7,28 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="96049760" ref="index"/>
-    <file name="nomq_index.css" crc="4188930800" ref="index"/>
-    <file name="acrui.css" crc="84235010" ref="acrui"/>
-    <file name="nomq_acrui.css" crc="4010474628" ref="acrui"/>
-    <file name="amun.css" crc="236000793" ref="amun"/>
-    <file name="nomq_amun.css" crc="287551141" ref="amun"/>
-    <file name="master_a-master.css" crc="248063876" ref="index:whego:acrui:amun:avii:futures:tacana:segway:tandem:sketching"/>
+    <file name="index.css" crc="65121220" ref="index"/>
+    <file name="nomq_index.css" crc="4142466927" ref="index"/>
+    <file name="acrui.css" crc="4017102322" ref="acrui"/>
+    <file name="nomq_acrui.css" crc="4244739183" ref="acrui"/>
+    <file name="amun.css" crc="3881418223" ref="amun"/>
+    <file name="nomq_amun.css" crc="150339970" ref="amun"/>
+    <file name="master_a-master.css" crc="159534777" ref="index:whego:acrui:amun:avii:futures:tacana:segway:tandem:sketching"/>
     <file name="nomq_preview_master_a-master.css" crc="3876110678" ref="index:whego:acrui:amun:avii:futures:tacana:segway:tandem:sketching"/>
     <file name="whego.css" crc="4231436552" ref="whego"/>
     <file name="nomq_whego.css" crc="341756280" ref="whego"/>
-    <file name="avii.css" crc="3800632513" ref="avii"/>
-    <file name="nomq_avii.css" crc="184669913" ref="avii"/>
-    <file name="futures.css" crc="46990814" ref="futures"/>
-    <file name="nomq_futures.css" crc="3811154328" ref="futures"/>
-    <file name="tacana.css" crc="51781868" ref="tacana"/>
-    <file name="nomq_tacana.css" crc="4213083902" ref="tacana"/>
-    <file name="segway.css" crc="3860804998" ref="segway"/>
-    <file name="nomq_segway.css" crc="47146431" ref="segway"/>
-    <file name="tandem.css" crc="4175745054" ref="tandem"/>
-    <file name="nomq_tandem.css" crc="418429932" ref="tandem"/>
-    <file name="sketching.css" crc="4134796063" ref="sketching"/>
-    <file name="nomq_sketching.css" crc="3901401429" ref="sketching"/>
+    <file name="avii.css" crc="468992559" ref="avii"/>
+    <file name="nomq_avii.css" crc="45146722" ref="avii"/>
+    <file name="futures.css" crc="47331183" ref="futures"/>
+    <file name="nomq_futures.css" crc="3785719859" ref="futures"/>
+    <file name="tacana.css" crc="116850225" ref="tacana"/>
+    <file name="nomq_tacana.css" crc="318634605" ref="tacana"/>
+    <file name="segway.css" crc="171310918" ref="segway"/>
+    <file name="nomq_segway.css" crc="500853224" ref="segway"/>
+    <file name="tandem.css" crc="4084645188" ref="tandem"/>
+    <file name="nomq_tandem.css" crc="370790971" ref="tandem"/>
+    <file name="sketching.css" crc="4171799933" ref="sketching"/>
+    <file name="nomq_sketching.css" crc="4285350242" ref="sketching"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:acrui:amun:whego:avii:tacana:tandem:sketching:futures:segway"/>
@@ -55,27 +55,6 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:acrui:amun:whego:avii:tacana:tandem:sketching:futures:segway"/>
     <file name="logo.png" crc="4270137551" seo="true" ref="index:acrui:amun:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
@@ -83,41 +62,6 @@
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -125,13 +69,20 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
@@ -139,29 +90,57 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
     </file>
     <file name="logo_2x.png" crc="3786028948" seo="true" ref="index:acrui:amun:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
@@ -169,41 +148,6 @@
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
@@ -211,13 +155,20 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
@@ -225,6 +176,55 @@
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
     </file>
     <file name="hero banner.jpg" crc="208238212" ref="index">
       <caption webpage="index" alt=""/>
@@ -298,30 +298,30 @@
       <caption webpage="whego" alt=""/>
     </file>
     <file name="menu-of-three-lines_2x.png" crc="442271933" seo="true" ref="index:acrui:amun:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="sketching" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="acrui" alt=""/>
-      <caption webpage="futures" alt=""/>
-      <caption webpage="futures" alt=""/>
       <caption webpage="tacana" alt=""/>
       <caption webpage="tacana" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="avii" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="tandem" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="electronics" alt=""/>
-      <caption webpage="whego" alt=""/>
-      <caption webpage="whego" alt=""/>
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
-      <caption webpage="segway" alt=""/>
-      <caption webpage="segway" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="whego" alt=""/>
+      <caption webpage="electronics" alt=""/>
+      <caption webpage="electronics" alt=""/>
       <caption webpage="gizmo" alt=""/>
       <caption webpage="gizmo" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="futures" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="tandem" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="segway" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="avii" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="acrui" alt=""/>
+      <caption webpage="sketching" alt=""/>
+      <caption webpage="sketching" alt=""/>
     </file>
     <file name="hero banner-u1526-fr2.jpg" crc="3904528117" ref="index"/>
     <file name="hero banner-u1526-fr_2x2.jpg" crc="280149556" ref="index"/>
@@ -353,8 +353,8 @@
     <file name="portfolio banner-u5234-fr.jpg" crc="3985900483" ref="index"/>
     <file name="portfolio banner-u5234-fr_2x.jpg" crc="444002295" ref="index"/>
     <file name="gradient.jpg" crc="3836402188" ref="acrui:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
       <caption webpage="gizmo" alt=""/>
     </file>
     <file name="acrui-banner.jpg" crc="4011279350" ref="acrui">
@@ -369,13 +369,13 @@
     <file name="acrui-banner-u35622-fr4.jpg" crc="3895971431" ref="acrui"/>
     <file name="acrui-banner-u35622-fr_2x4.jpg" crc="140622976" ref="acrui"/>
     <file name="gradient2.jpg" crc="325206294" ref="acrui:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
       <caption webpage="gizmo" alt=""/>
     </file>
     <file name="gradient_2x.jpg" crc="3836402188" ref="acrui:whego:avii:tacana:tandem:sketching:futures:segway">
-      <caption webpage="whego" alt=""/>
       <caption webpage="acrui" alt=""/>
+      <caption webpage="whego" alt=""/>
       <caption webpage="gizmo" alt=""/>
     </file>
     <file name="acrui-banner-u35622-fr5.jpg" crc="3781647751" ref="acrui"/>
@@ -511,13 +511,13 @@
     <file name="picture4.jpg" crc="6195329" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="picture2-crop-u48137.jpg" crc="490339717" seo="true" ref="acrui">
+    <file name="picture2-crop-u48137.jpg" crc="3939810330" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
     <file name="picture2-crop-u48137_2x.jpg" crc="4059400004" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
-    <file name="picture3-crop-u48093.jpg" crc="3799155476" seo="true" ref="acrui">
+    <file name="picture3-crop-u48093.jpg" crc="511916393" seo="true" ref="acrui">
       <caption webpage="acrui" alt=""/>
     </file>
     <file name="picture3-crop-u48093_2x.jpg" crc="409379514" seo="true" ref="acrui">
@@ -799,10 +799,10 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u60519.jpg" crc="3963515429" seo="true" ref="amun">
+    <file name="img_5118-crop-u60519.jpg" crc="407077978" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u60519_2x.jpg" crc="4195646631" seo="true" ref="amun">
+    <file name="img_5118-crop-u60519_2x.jpg" crc="4133987498" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_3076.jpg" crc="58293344" seo="true" ref="amun">
@@ -830,16 +830,16 @@
     <file name="exploded n2 2-crop-u61475_2x.png" crc="4121594380" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453.jpg" crc="277808501" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453.jpg" crc="517527405" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x.jpg" crc="461804523" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x.jpg" crc="486735324" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605192.jpg" crc="3963515429" seo="true" ref="amun">
+    <file name="img_5118-crop-u605192.jpg" crc="407077978" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u60519_2x2.jpg" crc="4195646631" seo="true" ref="amun">
+    <file name="img_5118-crop-u60519_2x2.jpg" crc="4133987498" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="exploded full ting-crop-u614312.png" crc="3865143895" seo="true" ref="amun">
@@ -851,10 +851,10 @@
     <file name="exploded n2 2-crop-u61475_2x2.png" crc="4121594380" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614532.jpg" crc="277808501" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614532.jpg" crc="517527405" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x2.jpg" crc="461804523" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x2.jpg" crc="486735324" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="amun 17.png" crc="4057650684" seo="true" ref="amun">
@@ -884,10 +884,10 @@
     <file name="img_4992277x208_2x.jpg" crc="488717167" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605193.jpg" crc="4107498598" seo="true" ref="amun">
+    <file name="img_5118-crop-u605193.jpg" crc="4032552084" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u60519_2x3.jpg" crc="457266963" seo="true" ref="amun">
+    <file name="img_5118-crop-u60519_2x3.jpg" crc="40336713" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_3076278x209.jpg" crc="3912226380" seo="true" ref="amun">
@@ -902,10 +902,10 @@
     <file name="img_5236279x209_2x.jpg" crc="38021122" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614533.jpg" crc="3951484725" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614533.jpg" crc="4113322274" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x3.jpg" crc="4198152055" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x3.jpg" crc="3997569992" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="exploded full ting-crop-u614313.png" crc="16339339" seo="true" ref="amun">
@@ -960,10 +960,10 @@
     <file name="qqq283x213_2x.jpg" crc="3803457421" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605194.jpg" crc="533869843" seo="true" ref="amun">
+    <file name="img_5118-crop-u605194.jpg" crc="30240174" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u60519_2x4.jpg" crc="4270119177" seo="true" ref="amun">
+    <file name="img_5118-crop-u60519_2x4.jpg" crc="76243613" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_3076260x195.jpg" crc="3886745266" seo="true" ref="amun">
@@ -984,10 +984,10 @@
     <file name="amun 17186x202_2x.png" crc="152843111" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614534.jpg" crc="3794325104" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614534.jpg" crc="4120632836" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x4.jpg" crc="3876469324" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x4.jpg" crc="3988581407" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="exploded full ting-crop-u614314.png" crc="4062590092" seo="true" ref="amun">
@@ -1042,7 +1042,7 @@
       <caption webpage="amun" alt=""/>
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605195.jpg" crc="304114900" seo="true" ref="amun">
+    <file name="img_5118-crop-u605195.jpg" crc="368295125" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_5118-crop-u60519_2x5.jpg" crc="253423279" seo="true" ref="amun">
@@ -1066,7 +1066,7 @@
     <file name="amun 17151x165_2x.png" crc="257719152" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614535.jpg" crc="233879070" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614535.jpg" crc="25440046" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="pastedimage0 2-crop-u61453_2x5.jpg" crc="4128599365" seo="true" ref="amun">
@@ -1099,16 +1099,16 @@
     <file name="amun 560x52_2x.png" crc="4137838230" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605196.jpg" crc="515024180" seo="true" ref="amun">
+    <file name="img_5118-crop-u605196.jpg" crc="3935607074" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_5118-crop-u60519_2x6.jpg" crc="380667407" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614536.jpg" crc="372044096" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614536.jpg" crc="449486544" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x6.jpg" crc="4271155349" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x6.jpg" crc="4293123946" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="exploded full ting-crop-u614316.png" crc="153555307" seo="true" ref="amun">
@@ -1141,16 +1141,16 @@
     <file name="amun 540x35_2x.png" crc="4032742481" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="img_5118-crop-u605197.jpg" crc="304114900" seo="true" ref="amun">
+    <file name="img_5118-crop-u605197.jpg" crc="368295125" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="img_5118-crop-u60519_2x7.jpg" crc="253423279" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u614537.jpg" crc="4189994821" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u614537.jpg" crc="3953126869" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
-    <file name="pastedimage0 2-crop-u61453_2x7.jpg" crc="3809010497" seo="true" ref="amun">
+    <file name="pastedimage0 2-crop-u61453_2x7.jpg" crc="241889178" seo="true" ref="amun">
       <caption webpage="amun" alt=""/>
     </file>
     <file name="exploded full ting-crop-u614317.png" crc="266130056" seo="true" ref="amun">
@@ -1656,16 +1656,16 @@
     <file name="dscf2091-u115656-fr_2x.jpg" crc="119530424" ref="index"/>
     <file name="food-waste-u115686-fr.jpg" crc="4171579779" ref="index"/>
     <file name="food-waste-u115686-fr_2x.jpg" crc="4260400401" ref="index"/>
-    <file name="img_2461-u115647-fr.jpg" crc="231426651" ref="index"/>
-    <file name="img_2461-u115647-fr_2x.jpg" crc="297184661" ref="index"/>
+    <file name="img_2461-u115647-fr.jpg" crc="4254675102" ref="index"/>
+    <file name="img_2461-u115647-fr_2x.jpg" crc="3894440727" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr.jpg" crc="3942009977" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr_2x.jpg" crc="4069481055" ref="index"/>
     <file name="dscf2091-u115656-fr2.jpg" crc="4265352235" ref="index"/>
     <file name="dscf2091-u115656-fr_2x2.jpg" crc="4262814494" ref="index"/>
     <file name="food-waste-u115686-fr2.jpg" crc="4257556311" ref="index"/>
     <file name="food-waste-u115686-fr_2x2.jpg" crc="80900005" ref="index"/>
-    <file name="img_2461-u115647-fr2.jpg" crc="367857012" ref="index"/>
-    <file name="img_2461-u115647-fr_2x2.jpg" crc="4259267796" ref="index"/>
+    <file name="img_2461-u115647-fr2.jpg" crc="467583008" ref="index"/>
+    <file name="img_2461-u115647-fr_2x2.jpg" crc="460448898" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr2.jpg" crc="318286147" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr_2x2.jpg" crc="4183387986" ref="index"/>
     <file name="portfolio 1-u26560-fr3.jpg" crc="4053684511" ref="index"/>
@@ -1678,8 +1678,8 @@
     <file name="food-waste-u115686-fr_2x3.jpg" crc="59870958" ref="index"/>
     <file name="portfolio 3-u26503-fr3.jpg" crc="528643738" ref="index"/>
     <file name="portfolio 3-u26503-fr_2x3.jpg" crc="4211451437" ref="index"/>
-    <file name="img_2461-u115647-fr3.jpg" crc="4244294106" ref="index"/>
-    <file name="img_2461-u115647-fr_2x3.jpg" crc="455443046" ref="index"/>
+    <file name="img_2461-u115647-fr3.jpg" crc="281549007" ref="index"/>
+    <file name="img_2461-u115647-fr_2x3.jpg" crc="173470641" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr3.jpg" crc="4251858912" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr_2x3.jpg" crc="4140161940" ref="index"/>
     <file name="portfolio 1-u26560-fr4.jpg" crc="226026606" ref="index"/>
@@ -1694,8 +1694,8 @@
     <file name="portfolio 2-u26484-fr_2x4.jpg" crc="297061466" ref="index"/>
     <file name="portfolio 4-u26529-fr4.jpg" crc="3954612926" ref="index"/>
     <file name="portfolio 4-u26529-fr_2x4.jpg" crc="277309808" ref="index"/>
-    <file name="img_2461-u115647-fr4.jpg" crc="417238171" ref="index"/>
-    <file name="img_2461-u115647-fr_2x4.jpg" crc="277777714" ref="index"/>
+    <file name="img_2461-u115647-fr4.jpg" crc="3868343642" ref="index"/>
+    <file name="img_2461-u115647-fr_2x4.jpg" crc="3868954629" ref="index"/>
     <file name="food-waste-u115686-fr4.jpg" crc="4014435613" ref="index"/>
     <file name="food-waste-u115686-fr_2x4.jpg" crc="454245362" ref="index"/>
     <file name="portfolio 1-u26560-fr5.jpg" crc="459400483" ref="index"/>
@@ -1710,12 +1710,12 @@
     <file name="portfolio 2-u26484-fr_2x5.jpg" crc="99247993" ref="index"/>
     <file name="portfolio 4-u26529-fr5.jpg" crc="524877628" ref="index"/>
     <file name="portfolio 4-u26529-fr_2x5.jpg" crc="370229682" ref="index"/>
-    <file name="img_2461-u115647-fr5.jpg" crc="3819026717" ref="index"/>
-    <file name="img_2461-u115647-fr_2x5.jpg" crc="32341906" ref="index"/>
+    <file name="img_2461-u115647-fr5.jpg" crc="449824583" ref="index"/>
+    <file name="img_2461-u115647-fr_2x5.jpg" crc="356902730" ref="index"/>
     <file name="food-waste-u115686-fr5.jpg" crc="3936702311" ref="index"/>
     <file name="food-waste-u115686-fr_2x5.jpg" crc="424359687" ref="index"/>
-    <file name="img_2461-u115647-fr6.jpg" crc="3944403523" ref="index"/>
-    <file name="img_2461-u115647-fr_2x6.jpg" crc="4059968752" ref="index"/>
+    <file name="img_2461-u115647-fr6.jpg" crc="338599858" ref="index"/>
+    <file name="img_2461-u115647-fr_2x6.jpg" crc="3900044876" ref="index"/>
     <file name="food-waste-u115686-fr6.jpg" crc="4033936034" ref="index"/>
     <file name="food-waste-u115686-fr_2x6.jpg" crc="3762866010" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr6.jpg" crc="285134970" ref="index"/>
@@ -1730,8 +1730,6 @@
     <file name="portfolio 4-u26529-fr_2x6.jpg" crc="4112883177" ref="index"/>
     <file name="dscf2091-u115656-fr6.jpg" crc="90559972" ref="index"/>
     <file name="dscf2091-u115656-fr_2x6.jpg" crc="3807165735" ref="index"/>
-    <file name="img_2461-u115647-fr7.jpg" crc="353155343" ref="index"/>
-    <file name="img_2461-u115647-fr_2x7.jpg" crc="52088367" ref="index"/>
     <file name="food-waste-u115686-fr7.jpg" crc="351898343" ref="index"/>
     <file name="food-waste-u115686-fr_2x7.jpg" crc="296111232" ref="index"/>
     <file name="screen shot 2017-11-18 at 211354-u116652-fr7.jpg" crc="393420776" ref="index"/>
@@ -1812,10 +1810,12 @@
     <file name="dscf2091_2x2.jpg" crc="4128816043" ref="avii">
       <caption webpage="avii" alt=""/>
     </file>
-    <file name="img_2461.jpg" crc="4062329978" ref="sketching">
+    <file name="img_2461.jpg" crc="4024071859" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461_2x.jpg" crc="441068399" ref="sketching">
+    <file name="img_2461_2x.jpg" crc="4059968752" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2492317x238.jpg" crc="181898352" seo="true" ref="sketching">
@@ -1830,10 +1830,10 @@
     <file name="img_2480317x238_2x.jpg" crc="78622760" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487317x238.jpg" crc="365268740" seo="true" ref="sketching">
+    <file name="img_2487317x238.jpg" crc="224495656" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487317x238_2x.jpg" crc="9679504" seo="true" ref="sketching">
+    <file name="img_2487317x238_2x.jpg" crc="193134516" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2491317x238.jpg" crc="4225370534" seo="true" ref="sketching">
@@ -1876,12 +1876,6 @@
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2472317x238_2x.jpg" crc="28506928" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471317x238.jpg" crc="4158943545" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471317x238_2x.jpg" crc="51530016" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2459317x238.jpg" crc="37846306" seo="true" ref="sketching">
@@ -1986,8 +1980,6 @@
     <file name="img_2462234x312_2x.jpg" crc="433148996" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr.jpg" crc="4080863401" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x.jpg" crc="484358685" ref="sketching"/>
     <file name="img_2492277x208.jpg" crc="496804991" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
@@ -2000,10 +1992,10 @@
     <file name="img_2480277x208_2x.jpg" crc="59279207" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487277x208.jpg" crc="388554684" seo="true" ref="sketching">
+    <file name="img_2487277x208.jpg" crc="3966011953" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487277x208_2x.jpg" crc="514193871" seo="true" ref="sketching">
+    <file name="img_2487277x208_2x.jpg" crc="4198582820" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2491277x208.jpg" crc="4292586839" seo="true" ref="sketching">
@@ -2046,12 +2038,6 @@
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2472277x208_2x.jpg" crc="4231408251" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471277x208.jpg" crc="3939115122" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471277x208_2x.jpg" crc="4013073340" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2459277x208.jpg" crc="4272678245" seo="true" ref="sketching">
@@ -2156,8 +2142,6 @@
     <file name="img_2462205x273_2x.jpg" crc="3937658354" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr2.jpg" crc="3909689253" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x2.jpg" crc="342192288" ref="sketching"/>
     <file name="img_2492235x176.jpg" crc="32426448" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
@@ -2170,10 +2154,10 @@
     <file name="img_2480235x176_2x.jpg" crc="3867187050" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487235x176.jpg" crc="172404235" seo="true" ref="sketching">
+    <file name="img_2487235x176.jpg" crc="4118899685" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487235x176_2x.jpg" crc="4230083448" seo="true" ref="sketching">
+    <file name="img_2487235x176_2x.jpg" crc="119145131" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2491235x176.jpg" crc="4003581702" seo="true" ref="sketching">
@@ -2216,12 +2200,6 @@
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2472235x176_2x.jpg" crc="4125954157" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471235x176.jpg" crc="135213365" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471235x176_2x.jpg" crc="253687064" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2459235x176.jpg" crc="162353439" seo="true" ref="sketching">
@@ -2326,18 +2304,16 @@
     <file name="img_2462174x231_2x.jpg" crc="4026657020" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr3.jpg" crc="4060917908" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x3.jpg" crc="4182650044" ref="sketching"/>
     <file name="img_2466273x205.jpg" crc="132524375" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2466273x205_2x.jpg" crc="3973007060" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487273x205.jpg" crc="4025674880" seo="true" ref="sketching">
+    <file name="img_2487273x205.jpg" crc="269889545" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487273x205_2x.jpg" crc="3986250593" seo="true" ref="sketching">
+    <file name="img_2487273x205_2x.jpg" crc="4074744817" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2492273x205.jpg" crc="53902997" seo="true" ref="sketching">
@@ -2442,12 +2418,6 @@
     <file name="img_2475273x204_2x.jpg" crc="343419488" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2471273x205.jpg" crc="3983894718" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471273x205_2x.jpg" crc="4131548227" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
     <file name="img_2484273x205.jpg" crc="142683022" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
@@ -2496,18 +2466,16 @@
     <file name="img_2462273x364_2x.jpg" crc="3760263050" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr4.jpg" crc="486874657" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x4.jpg" crc="4009779697" ref="sketching"/>
     <file name="img_2466215x161.jpg" crc="3884977992" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2466215x161_2x.jpg" crc="379724278" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487215x161.jpg" crc="186309041" seo="true" ref="sketching">
+    <file name="img_2487215x161.jpg" crc="148257190" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487215x161_2x.jpg" crc="4228626277" seo="true" ref="sketching">
+    <file name="img_2487215x161_2x.jpg" crc="198138639" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2492215x161.jpg" crc="303466622" seo="true" ref="sketching">
@@ -2612,12 +2580,6 @@
     <file name="img_2475215x161_2x.jpg" crc="3926728169" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2471215x161.jpg" crc="424045034" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471215x161_2x.jpg" crc="4082388768" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
     <file name="img_2484215x161.jpg" crc="3908311171" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
@@ -2666,18 +2628,16 @@
     <file name="img_2462215x286_2x.jpg" crc="4008131500" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr5.jpg" crc="4018810233" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x5.jpg" crc="3976969176" ref="sketching"/>
     <file name="img_2466.jpg" crc="4200321249" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2466_2x.jpg" crc="109249734" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487.jpg" crc="61873750" seo="true" ref="sketching">
+    <file name="img_2487.jpg" crc="504031376" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487_2x.jpg" crc="422592802" seo="true" ref="sketching">
+    <file name="img_2487_2x.jpg" crc="282761805" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2492.jpg" crc="152813080" seo="true" ref="sketching">
@@ -2788,10 +2748,7 @@
     <file name="img_2475_2x.jpg" crc="3916940970" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2471.jpg" crc="3901219223" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471_2x.jpg" crc="4181147575" seo="true" ref="sketching">
+    <file name="img_2471.jpg" crc="470341666" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2484.jpg" crc="4238681356" seo="true" ref="sketching">
@@ -2836,18 +2793,16 @@
     <file name="img_2488_2x.jpg" crc="267723948" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2461-u109460-fr6.jpg" crc="4168577274" ref="sketching"/>
-    <file name="img_2461-u109460-fr_2x6.jpg" crc="509198462" ref="sketching"/>
     <file name="img_2466280x210.jpg" crc="4101894343" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2466280x210_2x.jpg" crc="3759942624" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487280x210.jpg" crc="3983035500" seo="true" ref="sketching">
+    <file name="img_2487280x210.jpg" crc="99189304" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2487280x210_2x.jpg" crc="42366679" seo="true" ref="sketching">
+    <file name="img_2487280x210_2x.jpg" crc="3985023465" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
     <file name="img_2492280x210.jpg" crc="144644471" seo="true" ref="sketching">
@@ -2958,12 +2913,6 @@
     <file name="img_2475280x209_2x.jpg" crc="40717262" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
-    <file name="img_2471280x210.jpg" crc="3771287142" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
-    <file name="img_2471280x210_2x.jpg" crc="4188849983" seo="true" ref="sketching">
-      <caption webpage="sketching" alt=""/>
-    </file>
     <file name="img_2484280x210.jpg" crc="126219822" seo="true" ref="sketching">
       <caption webpage="sketching" alt=""/>
     </file>
@@ -3042,15 +2991,69 @@
     <file name="screen shot 2017-11-18 at 211354-u111074-fr_2x5.jpg" crc="4102085326" ref="segway"/>
     <file name="screen shot 2017-11-18 at 211354-u111074-fr6.jpg" crc="353701329" ref="segway"/>
     <file name="screen shot 2017-11-18 at 211354-u111074-fr_2x6.jpg" crc="3968537040" ref="segway"/>
+    <file name="img_2455317x238.jpg" crc="3850312123" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455317x238_2x.jpg" crc="4009837934" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr.jpg" crc="4181867869" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x.jpg" crc="197335524" ref="sketching"/>
+    <file name="img_2455277x208.jpg" crc="3762438516" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455277x208_2x.jpg" crc="4184227140" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr2.jpg" crc="184563273" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x2.jpg" crc="56194754" ref="sketching"/>
+    <file name="img_2455235x176.jpg" crc="4031666444" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455235x176_2x.jpg" crc="3845722794" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr3.jpg" crc="3967390402" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x3.jpg" crc="3764684371" ref="sketching"/>
+    <file name="img_2455273x205.jpg" crc="157272835" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455273x205_2x.jpg" crc="4266215721" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr4.jpg" crc="4135070064" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x4.jpg" crc="407196329" ref="sketching"/>
+    <file name="img_2455215x161.jpg" crc="506858232" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455215x161_2x.jpg" crc="254894946" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr5.jpg" crc="180673977" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x5.jpg" crc="4081673660" ref="sketching"/>
+    <file name="img_2455.jpg" crc="69843164" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455_2x.jpg" crc="191422175" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2471-u109460-fr6.jpg" crc="3883322022" ref="sketching"/>
+    <file name="img_2471-u109460-fr_2x6.jpg" crc="319227823" ref="sketching"/>
+    <file name="img_2455280x210.jpg" crc="425601075" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
+    <file name="img_2455280x210_2x.jpg" crc="454664011" seo="true" ref="sketching">
+      <caption webpage="sketching" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3782979915" seo="true" mt="1511048704943" redirect="true"/>
-  <file name="acrui.html" crc="71484326" seo="true" mt="1511043303204" redirect="true"/>
-  <file name="amun.html" crc="4009992032" seo="true" mt="1511048467778" redirect="true"/>
+  <file name="index.html" crc="456423861" seo="true" mt="1511218194067" redirect="true"/>
+  <file name="acrui.html" crc="4272621562" seo="true" mt="1511217659968" redirect="true"/>
+  <file name="amun.html" crc="69881614" seo="true" mt="1511218119852" redirect="true"/>
   <file name="whego.html" crc="4017259657" seo="true" mt="1511044958467" redirect="true"/>
-  <file name="avii.html" crc="3936050374" seo="true" mt="1511043303204" redirect="true"/>
-  <file name="tacana.html" crc="3924357901" seo="true" mt="1511043303204" redirect="true"/>
-  <file name="tandem.html" crc="3893408444" seo="true" mt="1511043303204" redirect="true"/>
-  <file name="sketching.html" crc="248080213" seo="true" mt="1511043303204" redirect="true"/>
-  <file name="futures.html" crc="388700210" seo="true" mt="1511048704942" redirect="true"/>
-  <file name="segway.html" crc="4218273581" seo="true" mt="1511043303204" redirect="true"/>
+  <file name="avii.html" crc="3857797312" seo="true" mt="1511217402974" redirect="true"/>
+  <file name="tacana.html" crc="4148801529" seo="true" mt="1511216676299" redirect="true"/>
+  <file name="tandem.html" crc="171596370" seo="true" mt="1511213786168" redirect="true"/>
+  <file name="sketching.html" crc="397622946" seo="true" mt="1511218189704" redirect="true"/>
+  <file name="futures.html" crc="122811164" seo="true" mt="1511218194066" redirect="true"/>
+  <file name="segway.html" crc="322302377" seo="true" mt="1511213848560" redirect="true"/>
 </manifest>
